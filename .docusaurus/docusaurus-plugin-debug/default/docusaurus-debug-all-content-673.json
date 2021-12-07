@@ -982,5 +982,8 @@
   },
   "docusaurus-theme-classic": {
     "default": null
+  },
+  "docusaurus-plugin-pwa": {
+    "default": null
   }
 }

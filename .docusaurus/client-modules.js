@@ -3,4 +3,5 @@ export default [
   require("/home/ccc/Документы/my-docs/node_modules/@docusaurus/theme-classic/lib/prism-include-languages"),
   require("/home/ccc/Документы/my-docs/node_modules/@docusaurus/theme-classic/lib/admonitions.css"),
   require("/home/ccc/Документы/my-docs/src/css/custom.css"),
+  require("/home/ccc/Документы/my-docs/node_modules/@docusaurus/plugin-pwa/src/registerSw.js"),
 ];

@@ -1,0 +1,17 @@
+start:
+	yarn run start
+
+build:
+	yarn run build
+	
+install:
+	yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest
+
+test:
+	echo ${GIT_USER
+	echo $USE_SSH
+
+deploy: test
+	GIT_USER=easy-quest
+	USE_SSH=true
+	# node_modules/.bin/docusaurus deploy
