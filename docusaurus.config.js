@@ -11,7 +11,7 @@ module.exports = {
   tagline: 'Dinosaurs are cool',
   url: 'https://easy-quest.github.io',
   baseUrl: '/my-docs/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'easy-quest', // Usually your GitHub org/user name.

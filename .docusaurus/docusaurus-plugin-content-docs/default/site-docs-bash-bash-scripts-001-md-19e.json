@@ -11,10 +11,13 @@
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_001.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 1,
   "frontMatter": {
     "created": "2021-08-29T16:37:45 (UTC +03:00)",
     "source": "https://habr.com/ru/company/ruvds/blog/326594/",
-    "author": "Ivan Yastrebov"
+    "author": "Ivan Yastrebov",
+    "sidebar_label": "Bash-скрипты, часть 1",
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
