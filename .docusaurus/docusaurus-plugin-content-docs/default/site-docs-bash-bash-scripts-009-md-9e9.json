@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Bash/bash_scripts_009",
+  "id": "Bash/bash_scripts_009",
+  "isDocsHomePage": false,
+  "title": "Bash-скрипты, часть 9",
+  "description": "регулярные выражения",
+  "source": "@site/docs/Bash/bash_scripts_009.md",
+  "sourceDirName": "Bash",
+  "slug": "/Bash/bash_scripts_009",
+  "permalink": "/my-docs/docs/Bash/bash_scripts_009",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_009.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "created": "2021-08-29T16:45:11 (UTC +03:00)",
+    "source": "https://habr.com/ru/company/ruvds/blog/327530/",
+    "author": "Ivan Yastrebov"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bash-скрипты, часть 8 язык обработки данных awk",
+    "permalink": "/my-docs/docs/Bash/bash_scripts_008"
+  },
+  "next": {
+    "title": "Bash-скрипты, часть 10 практические примеры",
+    "permalink": "/my-docs/docs/Bash/bash_scripts_010"
+  }
+}

@@ -1,0 +1,10 @@
+start:
+	yarn run start
+
+build:
+	yarn run build
+	
+install:
+	yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest
+
+	deploy:

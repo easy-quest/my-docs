@@ -1,0 +1,155 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/my-docs/docs/intro"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Basics",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/my-docs/docs/tutorial-basics/create-a-page"
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/my-docs/docs/tutorial-basics/create-a-document"
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/my-docs/docs/tutorial-basics/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/my-docs/docs/tutorial-basics/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/my-docs/docs/tutorial-basics/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/my-docs/docs/tutorial-basics/congratulations"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/my-docs/docs/tutorial-extras/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/my-docs/docs/tutorial-extras/translate-your-site"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Кастомизация",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Внешний вид",
+            "href": "/my-docs/docs/Кастомизация/Внешний вид"
+          },
+          {
+            "type": "link",
+            "label": "Пользовательские сочетания клавиш",
+            "href": "/my-docs/docs/Кастомизация/Пользовательские сочетания клавиш"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Bash",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 1",
+            "href": "/my-docs/docs/Bash/bash_scripts_001"
+          },
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 2",
+            "href": "/my-docs/docs/Bash/bash_scripts_002"
+          },
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 3",
+            "href": "/my-docs/docs/Bash/bash_scripts_003"
+          },
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 4",
+            "href": "/my-docs/docs/Bash/bash_scripts_004"
+          },
+          {
+            "type": "link",
+            "label": "bash_scripts_005",
+            "href": "/my-docs/docs/Bash/bash_scripts_005"
+          },
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 6",
+            "href": "/my-docs/docs/Bash/bash_scripts_006"
+          },
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 7",
+            "href": "/my-docs/docs/Bash/bash_scripts_007"
+          },
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 8 язык обработки данных awk",
+            "href": "/my-docs/docs/Bash/bash_scripts_008"
+          },
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 9",
+            "href": "/my-docs/docs/Bash/bash_scripts_009"
+          },
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 10 практические примеры",
+            "href": "/my-docs/docs/Bash/bash_scripts_010"
+          },
+          {
+            "type": "link",
+            "label": "Bash-скрипты, часть 11",
+            "href": "/my-docs/docs/Bash/bash_scripts_011"
+          }
+        ]
+      }
+    ]
+  }
+}

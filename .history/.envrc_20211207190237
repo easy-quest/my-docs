@@ -1,0 +1,3 @@
+#!/usr
+export GIT_USER="easy-quest"
+export USE_SSH="true"

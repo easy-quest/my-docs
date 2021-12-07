@@ -1,0 +1,224 @@
+{
+  "/my-docs/__docusaurus/debug-235": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/my-docs/__docusaurus/debug/config-f2d": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/my-docs/__docusaurus/debug/content-70c": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---my-docs-docusaurus-debug-content-246-f90"
+  },
+  "/my-docs/__docusaurus/debug/globalData-b22": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/my-docs/__docusaurus/debug/metadata-feb": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/my-docs/__docusaurus/debug/registry-b7d": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/my-docs/__docusaurus/debug/routes-6da": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/my-docs/blog-c5b": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "items": [
+      {
+        "content": "content---my-docs-blog-766-6b8"
+      },
+      {
+        "content": "content---my-docs-blogf-4-f-226"
+      },
+      {
+        "content": "content---my-docs-blog-871-31f"
+      },
+      {
+        "content": "content---my-docs-blog-925-b1c"
+      }
+    ],
+    "metadata": "metadata---my-docs-blogdb-9-db2"
+  },
+  "/my-docs/blog/archive-9f8": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---my-docs-blog-archive-78-b-014"
+  },
+  "/my-docs/blog/first-blog-post-937": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "content": "content---my-docs-blog-first-blog-poste-27-32f"
+  },
+  "/my-docs/blog/long-blog-post-e0c": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "content": "content---my-docs-blog-long-blog-post-736-f35"
+  },
+  "/my-docs/blog/mdx-blog-post-9b8": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "content": "content---my-docs-blog-mdx-blog-post-593-750"
+  },
+  "/my-docs/blog/tags-9de": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "tags": "tags---my-docs-blog-tagse-9-e-6d3"
+  },
+  "/my-docs/blog/tags/docusaurus-9fe": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "items": [
+      {
+        "content": "content---my-docs-blog-766-6b8"
+      },
+      {
+        "content": "content---my-docs-blogf-4-f-226"
+      },
+      {
+        "content": "content---my-docs-blog-871-31f"
+      },
+      {
+        "content": "content---my-docs-blog-925-b1c"
+      }
+    ],
+    "metadata": "metadata---my-docs-blog-tags-docusaurusc-50-774"
+  },
+  "/my-docs/blog/tags/facebook-2fd": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "items": [
+      {
+        "content": "content---my-docs-blog-766-6b8"
+      }
+    ],
+    "metadata": "metadata---my-docs-blog-tags-facebook-98-c-360"
+  },
+  "/my-docs/blog/tags/hello-315": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "items": [
+      {
+        "content": "content---my-docs-blog-766-6b8"
+      },
+      {
+        "content": "content---my-docs-blog-871-31f"
+      }
+    ],
+    "metadata": "metadata---my-docs-blog-tags-hello-8-a-3-330"
+  },
+  "/my-docs/blog/tags/hola-0f5": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "items": [
+      {
+        "content": "content---my-docs-blog-925-b1c"
+      }
+    ],
+    "metadata": "metadata---my-docs-blog-tags-hola-848-c27"
+  },
+  "/my-docs/blog/welcome-639": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---my-docs-blog-814-cdd",
+    "content": "content---my-docs-blog-welcomed-9-f-aa3"
+  },
+  "/my-docs/markdown-page-41d": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---my-docs-markdown-page-393-be1"
+  },
+  "/my-docs/docs-e16": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---my-docs-docs-935-957"
+  },
+  "/my-docs/docs/Кастомизация/Внешний вид-b04": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-кастомизация-внешний-видbc-9-250"
+  },
+  "/my-docs/docs/Кастомизация/Пользовательские сочетания клавиш-5b8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-кастомизация-пользовательские-сочетания-клавишc-78-558"
+  },
+  "/my-docs/docs/Bash/bash_scripts_001-2bd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-00119-e-d3c"
+  },
+  "/my-docs/docs/Bash/bash_scripts_002-286": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-002738-d61"
+  },
+  "/my-docs/docs/Bash/bash_scripts_003-f39": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-003088-736"
+  },
+  "/my-docs/docs/Bash/bash_scripts_004-e61": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-004-ad-8-49c"
+  },
+  "/my-docs/docs/Bash/bash_scripts_005-7b0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-005487-855"
+  },
+  "/my-docs/docs/Bash/bash_scripts_006-820": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-006-d-7-a-378"
+  },
+  "/my-docs/docs/Bash/bash_scripts_007-65d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-007-fa-4-a9e"
+  },
+  "/my-docs/docs/Bash/bash_scripts_008-75c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-008-c-4-b-906"
+  },
+  "/my-docs/docs/Bash/bash_scripts_009-151": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-0099-e-9-7d9"
+  },
+  "/my-docs/docs/Bash/bash_scripts_010-971": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-0105-cc-faf"
+  },
+  "/my-docs/docs/Bash/bash_scripts_011-bf1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-bash-bash-scripts-011-da-5-f54"
+  },
+  "/my-docs/docs/intro-e8d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-intro-0-e-3-36f"
+  },
+  "/my-docs/docs/tutorial-basics/congratulations-af7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-tutorial-basics-congratulations-822-794"
+  },
+  "/my-docs/docs/tutorial-basics/create-a-blog-post-e4b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-tutorial-basics-create-a-blog-post-533-87d"
+  },
+  "/my-docs/docs/tutorial-basics/create-a-document-64b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-tutorial-basics-create-a-document-1-e-4-31c"
+  },
+  "/my-docs/docs/tutorial-basics/create-a-page-af6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-tutorial-basics-create-a-page-5-c-8-02c"
+  },
+  "/my-docs/docs/tutorial-basics/deploy-your-site-cf8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-tutorial-basics-deploy-your-sitef-55-919"
+  },
+  "/my-docs/docs/tutorial-basics/markdown-features-d85": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-tutorial-basics-markdown-features-18-c-859"
+  },
+  "/my-docs/docs/tutorial-extras/manage-docs-versions-611": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-tutorial-extras-manage-docs-versionsdff-f47"
+  },
+  "/my-docs/docs/tutorial-extras/translate-your-site-fa3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---my-docs-docs-tutorial-extras-translate-your-sitee-44-435"
+  },
+  "/my-docs/-ab2": {
+    "component": "component---site-src-pages-index-tsx-1-df-d3e",
+    "config": "config---my-docs-5-e-9-63d"
+  }
+}

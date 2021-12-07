@@ -1,0 +1,128 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/my-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/my-docs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Кастомизация/Внешний вид",
+              "path": "/my-docs/docs/Кастомизация/Внешний вид",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Кастомизация/Пользовательские сочетания клавиш",
+              "path": "/my-docs/docs/Кастомизация/Пользовательские сочетания клавиш",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_001",
+              "path": "/my-docs/docs/Bash/bash_scripts_001",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_002",
+              "path": "/my-docs/docs/Bash/bash_scripts_002",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_003",
+              "path": "/my-docs/docs/Bash/bash_scripts_003",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_004",
+              "path": "/my-docs/docs/Bash/bash_scripts_004",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_005",
+              "path": "/my-docs/docs/Bash/bash_scripts_005",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_006",
+              "path": "/my-docs/docs/Bash/bash_scripts_006",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_007",
+              "path": "/my-docs/docs/Bash/bash_scripts_007",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_008",
+              "path": "/my-docs/docs/Bash/bash_scripts_008",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_009",
+              "path": "/my-docs/docs/Bash/bash_scripts_009",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_010",
+              "path": "/my-docs/docs/Bash/bash_scripts_010",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bash/bash_scripts_011",
+              "path": "/my-docs/docs/Bash/bash_scripts_011",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/my-docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/my-docs/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/my-docs/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/my-docs/docs/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/my-docs/docs/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/my-docs/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/my-docs/docs/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/my-docs/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/my-docs/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
