@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "880db6b6565800d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "16db718c6e2ccad7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DotFiles/First.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "350de979883d5300",
+    "type": "split",
+    "children": [
+      {
+        "id": "103f408daf51a0b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4f17a6fd192b23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "36ea064d2cca63e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395
+  },
+  "right": {
+    "id": "97263e4bee71f443",
+    "type": "split",
+    "children": [
+      {
+        "id": "589776cd85ebbaa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b88a60be103625ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DotFiles/First.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "16db718c6e2ccad7",
+  "lastOpenFiles": [
+    "DotFiles/First.md",
+    "Bash/bash_scripts_003.md",
+    "Bash/bash_scripts_002.md",
+    "Bash/bash_scripts_001.md",
+    "Bash/bash_scripts_011.md",
+    "Bash/bash_scripts_010.md",
+    "Bash/bash_scripts_009.md",
+    "Bash/bash_scripts_008.md",
+    "Bash/bash_scripts_007.md",
+    "Bash/bash_scripts_006.md"
+  ]
+}

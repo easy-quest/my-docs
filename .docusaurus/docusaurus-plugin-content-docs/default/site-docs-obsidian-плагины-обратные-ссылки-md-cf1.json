@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Обратные ссылки",
+  "id": "Obsidian/Плагины/Обратные ссылки",
+  "isDocsHomePage": false,
+  "title": "Обратные ссылки",
+  "description": "Плагин «Обратные ссылки» показывает, как на текущую заметку ссылаются в других заметках. Таким образом можно отследить связи между заметками в обе стороны.",
+  "source": "@site/docs/Obsidian/Плагины/Обратные ссылки.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Обратные ссылки",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Обратные ссылки",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Обратные ссылки.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Компоновщик заметок",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Компоновщик заметок"
+  },
+  "next": {
+    "title": "Открыть в приложении по умолчанию",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Открыть в приложении по умолчанию"
+  }
+}

@@ -2,7 +2,6 @@
 created: 2021-08-29T16:46:01 (UTC +03:00)
 source: https://habr.com/ru/company/ruvds/blog/327530/
 author: Ivan Yastrebov
-title: Bash-скрипты, часть 10 практические примеры 
 ---
 Bash-скрипты, часть 10
 ===

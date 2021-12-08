@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Предпросмотр страницы",
+  "id": "Obsidian/Плагины/Предпросмотр страницы",
+  "isDocsHomePage": false,
+  "title": "Предпросмотр страницы",
+  "description": "Плагин «Предпросмотр страницы» позволяет просматривать страницу при наведении курсора на внутреннюю ссылку без необходимости фактического перехода на эту страницу.",
+  "source": "@site/docs/Obsidian/Плагины/Предпросмотр страницы.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Предпросмотр страницы",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Предпросмотр страницы",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Предпросмотр страницы.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Поиск",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Поиск"
+  },
+  "next": {
+    "title": "Пространства",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Пространства"
+  }
+}

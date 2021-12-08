@@ -1,0 +1,28 @@
+{
+  "unversionedId": "DotFiles/First",
+  "id": "DotFiles/First",
+  "isDocsHomePage": false,
+  "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
+  "description": "---",
+  "source": "@site/docs/DotFiles/First.md",
+  "sourceDirName": "DotFiles",
+  "slug": "/DotFiles/First",
+  "permalink": "/my-docs/docs/DotFiles/First",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/DotFiles/First.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "created": "2021-11-24T19:20:40 (UTC +03:00)",
+    "source": "https://www.atlassian.com/git/tutorials/dotfiles",
+    "author": "Ivan Yastrebov"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bash-скрипты, часть 11",
+    "permalink": "/my-docs/docs/Bash/bash_scripts_011"
+  },
+  "next": {
+    "title": "Внешний вид",
+    "permalink": "/my-docs/docs/Obsidian/Кастомизация/Внешний вид"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Руководства/Работа с обратными ссылками",
+  "id": "Obsidian/Руководства/Работа с обратными ссылками",
+  "isDocsHomePage": false,
+  "title": "Работа с обратными ссылками",
+  "description": "Обратные ссылки — одна из самых мощных функций Obsidian. Однако иногда их использование может сбить с толку. Далее размещены некоторые советы, которые могут помочь вам.",
+  "source": "@site/docs/Obsidian/Руководства/Работа с обратными ссылками.md",
+  "sourceDirName": "Obsidian/Руководства",
+  "slug": "/Obsidian/Руководства/Работа с обратными ссылками",
+  "permalink": "/my-docs/docs/Obsidian/Руководства/Работа с обратными ссылками",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Руководства/Работа с обратными ссылками.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Работа с несколькими хранилищами",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Работа с несколькими хранилищами"
+  },
+  "next": {
+    "title": "Работа с тегами",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Работа с тегами"
+  }
+}

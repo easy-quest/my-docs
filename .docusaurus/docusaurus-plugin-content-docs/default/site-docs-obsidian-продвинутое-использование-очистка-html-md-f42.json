@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Продвинутое использование/Очистка HTML",
+  "id": "Obsidian/Продвинутое использование/Очистка HTML",
+  "isDocsHomePage": false,
+  "title": "Очистка HTML",
+  "description": "Obsidian очищает html в целях безопасности. Поскольку html-код выполняется локально, скриптовые уязвимости представляют более серьезную угрозу, чем в случае с веб-приложениями. Вероятно, мы чуть более строги, чем вы, возможно, ожидаете, и вы можете столкнуться с проблемами при попытках сделать что-нибудь вроде внедрения тега `` в заметку. Однако подавляющее большинство людей никогда не столкнется с такими проблемами.",
+  "source": "@site/docs/Obsidian/Продвинутое использование/Очистка HTML.md",
+  "sourceDirName": "Obsidian/Продвинутое использование",
+  "slug": "/Obsidian/Продвинутое использование/Очистка HTML",
+  "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Очистка HTML",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Продвинутое использование/Очистка HTML.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Как Obsidian хранит данные",
+    "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Как Obsidian хранит данные"
+  },
+  "next": {
+    "title": "Перетаскивание объектов",
+    "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Перетаскивание объектов"
+  }
+}

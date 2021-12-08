@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Obsidian/Руководства/Форматирование заметок",
+  "id": "Obsidian/Руководства/Форматирование заметок",
+  "isDocsHomePage": false,
+  "title": "Форматирование заметок",
+  "description": "Obsidian это приложение для ведения заметок и базы знаний на основе Markdown.",
+  "source": "@site/docs/Obsidian/Руководства/Форматирование заметок.md",
+  "sourceDirName": "Obsidian/Руководства",
+  "slug": "/Obsidian/Руководства/Форматирование заметок",
+  "permalink": "/my-docs/docs/Obsidian/Руководства/Форматирование заметок",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Руководства/Форматирование заметок.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Управление вложениями",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Управление вложениями"
+  }
+}

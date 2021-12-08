@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Публикация",
+  "id": "Obsidian/Плагины/Публикация",
+  "isDocsHomePage": false,
+  "title": "Публикация",
+  "description": "Плагин «Публикация» позволяет публиковать заметки из вашего хранилища на вашем сайте через приложение Obsidian.",
+  "source": "@site/docs/Obsidian/Плагины/Публикация.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Публикация",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Публикация",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Публикация.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Пространства",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Пространства"
+  },
+  "next": {
+    "title": "Слайды",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Слайды"
+  }
+}

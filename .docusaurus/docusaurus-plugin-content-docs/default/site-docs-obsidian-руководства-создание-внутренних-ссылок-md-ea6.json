@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Руководства/Создание внутренних ссылок",
+  "id": "Obsidian/Руководства/Создание внутренних ссылок",
+  "isDocsHomePage": false,
+  "title": "Создание внутренних ссылок",
+  "description": "Внутренние ссылки являются каркасом вашей сети знаний.",
+  "source": "@site/docs/Obsidian/Руководства/Создание внутренних ссылок.md",
+  "sourceDirName": "Obsidian/Руководства",
+  "slug": "/Obsidian/Руководства/Создание внутренних ссылок",
+  "permalink": "/my-docs/docs/Obsidian/Руководства/Создание внутренних ссылок",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Руководства/Создание внутренних ссылок.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Сворачивание заголовков и списков",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Сворачивание заголовков и списков"
+  },
+  "next": {
+    "title": "Создание заметок",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Создание заметок"
+  }
+}

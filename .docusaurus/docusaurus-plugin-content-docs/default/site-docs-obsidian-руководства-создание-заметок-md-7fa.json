@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Руководства/Создание заметок",
+  "id": "Obsidian/Руководства/Создание заметок",
+  "isDocsHomePage": false,
+  "title": "Создание заметок",
+  "description": "Заметки создаются несколькими способами, в зависимости от вашего рабочего процесса:",
+  "source": "@site/docs/Obsidian/Руководства/Создание заметок.md",
+  "sourceDirName": "Obsidian/Руководства",
+  "slug": "/Obsidian/Руководства/Создание заметок",
+  "permalink": "/my-docs/docs/Obsidian/Руководства/Создание заметок",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Руководства/Создание заметок.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Создание внутренних ссылок",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Создание внутренних ссылок"
+  },
+  "next": {
+    "title": "Создание ссылок на блоки",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Создание ссылок на блоки"
+  }
+}

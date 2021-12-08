@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Продвинутое использование/Вклад в развитие Obsidian",
+  "id": "Obsidian/Продвинутое использование/Вклад в развитие Obsidian",
+  "isDocsHomePage": false,
+  "title": "Вклад в развитие Obsidian",
+  "description": "Спасибо за интерес к вкладу в развитие в Obsidian!",
+  "source": "@site/docs/Obsidian/Продвинутое использование/Вклад в развитие Obsidian.md",
+  "sourceDirName": "Obsidian/Продвинутое использование",
+  "slug": "/Obsidian/Продвинутое использование/Вклад в развитие Obsidian",
+  "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Вклад в развитие Obsidian",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Продвинутое использование/Вклад в развитие Obsidian.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Шаблоны",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Шаблоны"
+  },
+  "next": {
+    "title": "Заголовок YAML",
+    "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Заголовок YAML"
+  }
+}

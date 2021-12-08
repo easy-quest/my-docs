@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Поиск",
+  "id": "Obsidian/Плагины/Поиск",
+  "isDocsHomePage": false,
+  "title": "Поиск",
+  "description": "![[Search.png]]",
+  "source": "@site/docs/Obsidian/Плагины/Поиск.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Поиск",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Поиск",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Поиск.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Панель тегов",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Панель тегов"
+  },
+  "next": {
+    "title": "Предпросмотр страницы",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Предпросмотр страницы"
+  }
+}

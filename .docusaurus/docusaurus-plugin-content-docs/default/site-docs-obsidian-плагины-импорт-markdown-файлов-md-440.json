@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Импорт Markdown-файлов",
+  "id": "Obsidian/Плагины/Импорт Markdown-файлов",
+  "isDocsHomePage": false,
+  "title": "Импорт Markdown-файлов",
+  "description": "Плагин «Импорт Markdown-файлов» позволяет преобразовать из других вариантов форматов Markdown и ссылок в формат Obsidian.",
+  "source": "@site/docs/Obsidian/Плагины/Импорт Markdown-файлов.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Импорт Markdown-файлов",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Импорт Markdown-файлов",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Импорт Markdown-файлов.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Избранное",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Избранное"
+  },
+  "next": {
+    "title": "Исходящие ссылки",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Исходящие ссылки"
+  }
+}

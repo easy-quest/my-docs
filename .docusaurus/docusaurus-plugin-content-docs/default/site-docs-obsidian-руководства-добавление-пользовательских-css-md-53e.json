@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Руководства/Добавление пользовательских CSS",
+  "id": "Obsidian/Руководства/Добавление пользовательских CSS",
+  "isDocsHomePage": false,
+  "title": "Добавление пользовательских CSS",
+  "description": "Если вы хотите добавить пользовательские стили оформления для вашего хранилища, есть два основных способа сделать это:",
+  "source": "@site/docs/Obsidian/Руководства/Добавление пользовательских CSS.md",
+  "sourceDirName": "Obsidian/Руководства",
+  "slug": "/Obsidian/Руководства/Добавление пользовательских CSS",
+  "permalink": "/my-docs/docs/Obsidian/Руководства/Добавление пользовательских CSS",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Руководства/Добавление пользовательских CSS.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Встраивание вложений в заметки",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Встраивание вложений в заметки"
+  },
+  "next": {
+    "title": "Добавление псевдонимов к заметке",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Добавление псевдонимов к заметке"
+  }
+}

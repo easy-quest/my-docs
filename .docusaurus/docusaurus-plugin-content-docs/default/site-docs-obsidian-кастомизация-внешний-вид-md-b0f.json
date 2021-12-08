@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Кастомизация/Внешний вид",
+  "id": "Obsidian/Кастомизация/Внешний вид",
+  "isDocsHomePage": false,
+  "title": "Внешний вид",
+  "description": "Базовая тема оформления",
+  "source": "@site/docs/Obsidian/Кастомизация/Внешний вид.md",
+  "sourceDirName": "Obsidian/Кастомизация",
+  "slug": "/Obsidian/Кастомизация/Внешний вид",
+  "permalink": "/my-docs/docs/Obsidian/Кастомизация/Внешний вид",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Кастомизация/Внешний вид.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
+    "permalink": "/my-docs/docs/DotFiles/First"
+  },
+  "next": {
+    "title": "Пользовательские сочетания клавиш",
+    "permalink": "/my-docs/docs/Obsidian/Кастомизация/Пользовательские сочетания клавиш"
+  }
+}

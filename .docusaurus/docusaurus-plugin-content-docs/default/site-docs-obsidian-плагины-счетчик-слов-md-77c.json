@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Счетчик слов",
+  "id": "Obsidian/Плагины/Счетчик слов",
+  "isDocsHomePage": false,
+  "title": "Счетчик слов",
+  "description": "«Счетчик слов» — это простой плагин, который показывает в нижней строке состояния количество слов в текущей заметке.",
+  "source": "@site/docs/Obsidian/Плагины/Счетчик слов.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Счетчик слов",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Счетчик слов",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Счетчик слов.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Структура",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Структура"
+  },
+  "next": {
+    "title": "Файловый менеджер",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Файловый менеджер"
+  }
+}

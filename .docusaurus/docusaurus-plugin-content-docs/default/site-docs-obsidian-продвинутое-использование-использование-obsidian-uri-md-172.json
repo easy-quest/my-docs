@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Продвинутое использование/Использование Obsidian URI",
+  "id": "Obsidian/Продвинутое использование/Использование Obsidian URI",
+  "isDocsHomePage": false,
+  "title": "Использование Obsidian URI",
+  "description": "Obsidian поддерживает модифицированную версию URI протокола obsidian://, который можно использовать для запуска различных действий в приложении. Это обычно используется в macOS и мобильных приложениях для автоматизации и выстраивания процессов работы между несколькими приложениями.",
+  "source": "@site/docs/Obsidian/Продвинутое использование/Использование Obsidian URI.md",
+  "sourceDirName": "Obsidian/Продвинутое использование",
+  "slug": "/Obsidian/Продвинутое использование/Использование Obsidian URI",
+  "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Использование Obsidian URI",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Продвинутое использование/Использование Obsidian URI.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Заголовок YAML",
+    "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Заголовок YAML"
+  },
+  "next": {
+    "title": "Как Obsidian хранит данные",
+    "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Как Obsidian хранит данные"
+  }
+}

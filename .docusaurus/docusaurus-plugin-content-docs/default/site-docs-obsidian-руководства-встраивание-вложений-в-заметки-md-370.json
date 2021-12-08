@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Руководства/Встраивание вложений в заметки",
+  "id": "Obsidian/Руководства/Встраивание вложений в заметки",
+  "isDocsHomePage": false,
+  "title": "Встраивание вложений в заметки",
+  "description": "<!-- ### Вложенные файлы",
+  "source": "@site/docs/Obsidian/Руководства/Встраивание вложений в заметки.md",
+  "sourceDirName": "Obsidian/Руководства",
+  "slug": "/Obsidian/Руководства/Встраивание вложений в заметки",
+  "permalink": "/my-docs/docs/Obsidian/Руководства/Встраивание вложений в заметки",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Руководства/Встраивание вложений в заметки.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Базовое ведение заметок",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Базовое ведение заметок"
+  },
+  "next": {
+    "title": "Добавление пользовательских CSS",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Добавление пользовательских CSS"
+  }
+}

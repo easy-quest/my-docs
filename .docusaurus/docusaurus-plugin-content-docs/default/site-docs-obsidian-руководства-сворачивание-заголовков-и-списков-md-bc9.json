@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Руководства/Сворачивание заголовков и списков",
+  "id": "Obsidian/Руководства/Сворачивание заголовков и списков",
+  "isDocsHomePage": false,
+  "title": "Сворачивание заголовков и списков",
+  "description": "Сворачивание — это чрезвычайно мощный инструмент для записывания и структурирования. Позволяющий сфокусироваться на том, над чем вы сейчас работаете.",
+  "source": "@site/docs/Obsidian/Руководства/Сворачивание заголовков и списков.md",
+  "sourceDirName": "Obsidian/Руководства",
+  "slug": "/Obsidian/Руководства/Сворачивание заголовков и списков",
+  "permalink": "/my-docs/docs/Obsidian/Руководства/Сворачивание заголовков и списков",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Руководства/Сворачивание заголовков и списков.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Сбор данных",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Сбор данных"
+  },
+  "next": {
+    "title": "Создание внутренних ссылок",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Создание внутренних ссылок"
+  }
+}

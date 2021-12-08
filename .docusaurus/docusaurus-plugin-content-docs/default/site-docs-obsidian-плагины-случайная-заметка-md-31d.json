@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Случайная заметка",
+  "id": "Obsidian/Плагины/Случайная заметка",
+  "isDocsHomePage": false,
+  "title": "Случайная заметка",
+  "description": "Плагин «Случайная заметка» делает ровно то, что написано в названии — открывает случайную заметку из текущего хранилища. Многие находят это полезным для возврата к мыслям, которые они давно не рассматривали. Или для точечной проверки заметок, которые они, возможно, забыли связать с другими заметками.",
+  "source": "@site/docs/Obsidian/Плагины/Случайная заметка.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Случайная заметка",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Случайная заметка",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Случайная заметка.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Слайды",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Слайды"
+  },
+  "next": {
+    "title": "Список плагинов",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Список плагинов"
+  }
+}

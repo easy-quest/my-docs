@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Лицензии и дополнительные сервисы/Obsidian Unlimited",
+  "id": "Obsidian/Лицензии и дополнительные сервисы/Obsidian Unlimited",
+  "isDocsHomePage": false,
+  "title": "Obsidian Unlimited",
+  "description": "Obsidian Unlimited — это способ поддержать разработку Obsidian любой произвольной суммой по вашему желанию. Вы можете внести свой вклад несколько раз и в любое время.",
+  "source": "@site/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Unlimited.md",
+  "sourceDirName": "Obsidian/Лицензии и дополнительные сервисы",
+  "slug": "/Obsidian/Лицензии и дополнительные сервисы/Obsidian Unlimited",
+  "permalink": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Unlimited",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Unlimited.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Obsidian Sync",
+    "permalink": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Sync"
+  },
+  "next": {
+    "title": "Коммерческая лицензия",
+    "permalink": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Коммерческая лицензия"
+  }
+}

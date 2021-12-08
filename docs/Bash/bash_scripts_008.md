@@ -2,7 +2,6 @@
 created: 2021-08-29T16:43:17 (UTC +03:00)
 source: https://habr.com/ru/company/ruvds/blog/327530/
 author: Ivan Yastrebov
-title: Bash-скрипты, часть 8 язык обработки данных awk 
 ---
 
 Bash-скрипты, часть 8

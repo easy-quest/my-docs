@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Руководства/Изменение настроек",
+  "id": "Obsidian/Руководства/Изменение настроек",
+  "isDocsHomePage": false,
+  "title": "Изменение настроек",
+  "description": "Настройки можно открыть нажав на значок шестеренки в нижнем левом углу приложения или нажав сочетание клавиш Ctrl/Cmd-,. Большинство настроек интуитивно понятны, но некоторые требуют дополнительных пояснений.",
+  "source": "@site/docs/Obsidian/Руководства/Изменение настроек.md",
+  "sourceDirName": "Obsidian/Руководства",
+  "slug": "/Obsidian/Руководства/Изменение настроек",
+  "permalink": "/my-docs/docs/Obsidian/Руководства/Изменение настроек",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Руководства/Изменение настроек.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Добавление псевдонимов к заметке",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Добавление псевдонимов к заметке"
+  },
+  "next": {
+    "title": "Импорт данных",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Импорт данных"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Лицензии и дополнительные сервисы/Лицензия Catalyst",
+  "id": "Obsidian/Лицензии и дополнительные сервисы/Лицензия Catalyst",
+  "isDocsHomePage": false,
+  "title": "Лицензия Catalyst",
+  "description": "Obsidian бесплатен для персонального использования. Лицензия Catalyst — это опциональная лицензия, которая предоставляет следующие преимущества:",
+  "source": "@site/docs/Obsidian/Лицензии и дополнительные сервисы/Лицензия Catalyst.md",
+  "sourceDirName": "Obsidian/Лицензии и дополнительные сервисы",
+  "slug": "/Obsidian/Лицензии и дополнительные сервисы/Лицензия Catalyst",
+  "permalink": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Лицензия Catalyst",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Лицензии и дополнительные сервисы/Лицензия Catalyst.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Коммерческая лицензия",
+    "permalink": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Коммерческая лицензия"
+  },
+  "next": {
+    "title": "Политика возврата средств",
+    "permalink": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Политика возврата средств"
+  }
+}

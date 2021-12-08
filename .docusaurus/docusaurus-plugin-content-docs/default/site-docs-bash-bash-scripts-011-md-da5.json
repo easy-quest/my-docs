@@ -20,5 +20,9 @@
   "previous": {
     "title": "Bash-скрипты, часть 10 практические примеры",
     "permalink": "/my-docs/docs/Bash/bash_scripts_010"
+  },
+  "next": {
+    "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
+    "permalink": "/my-docs/docs/DotFiles/First"
   }
 }

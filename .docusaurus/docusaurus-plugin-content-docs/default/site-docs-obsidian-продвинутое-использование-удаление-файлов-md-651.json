@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Продвинутое использование/Удаление файлов",
+  "id": "Obsidian/Продвинутое использование/Удаление файлов",
+  "isDocsHomePage": false,
+  "title": "Удаление файлов",
+  "description": "У Obsidian есть несколько вариантов реализации удаления файлов для различных потребностей пользователя.",
+  "source": "@site/docs/Obsidian/Продвинутое использование/Удаление файлов.md",
+  "sourceDirName": "Obsidian/Продвинутое использование",
+  "slug": "/Obsidian/Продвинутое использование/Удаление файлов",
+  "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Удаление файлов",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Продвинутое использование/Удаление файлов.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Сторонние плагины",
+    "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Сторонние плагины"
+  },
+  "next": {
+    "title": "Базовое ведение заметок",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Базовое ведение заметок"
+  }
+}

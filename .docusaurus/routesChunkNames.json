@@ -103,17 +103,9 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/my-docs/docs-e16": {
+  "/my-docs/docs-8a7": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
-  },
-  "/my-docs/docs/Кастомизация/Внешний вид-b04": {
-    "component": "17896441",
-    "content": "bc9feac9"
-  },
-  "/my-docs/docs/Кастомизация/Пользовательские сочетания клавиш-5b8": {
-    "component": "17896441",
-    "content": "c783e0fc"
   },
   "/my-docs/docs/Bash/bash_scripts_001-2bd": {
     "component": "17896441",
@@ -159,9 +151,285 @@
     "component": "17896441",
     "content": "da510aa4"
   },
+  "/my-docs/docs/DotFiles/First-15c": {
+    "component": "17896441",
+    "content": "d28c775a"
+  },
   "/my-docs/docs/intro-e8d": {
     "component": "17896441",
     "content": "0e384e19"
+  },
+  "/my-docs/docs/Obsidian/Кастомизация/Внешний вид-2a7": {
+    "component": "17896441",
+    "content": "b0f822fc"
+  },
+  "/my-docs/docs/Obsidian/Кастомизация/Пользовательские сочетания клавиш-ab6": {
+    "component": "17896441",
+    "content": "966c5ba0"
+  },
+  "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Коммерческая лицензия-538": {
+    "component": "17896441",
+    "content": "ca303988"
+  },
+  "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Лицензия Catalyst-cae": {
+    "component": "17896441",
+    "content": "ce6dfc4b"
+  },
+  "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Политика возврата средств-233": {
+    "component": "17896441",
+    "content": "b5c8f738"
+  },
+  "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Publish-698": {
+    "component": "17896441",
+    "content": "231127b3"
+  },
+  "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Sync-8d6": {
+    "component": "17896441",
+    "content": "3f25decf"
+  },
+  "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Unlimited-dc5": {
+    "component": "17896441",
+    "content": "1abb7f17"
+  },
+  "/my-docs/docs/Obsidian/Области/Расположение областей-d8b": {
+    "component": "17896441",
+    "content": "1d02d902"
+  },
+  "/my-docs/docs/Obsidian/Области/Связанная область-b84": {
+    "component": "17896441",
+    "content": "43ec639d"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Быстрый переход-167": {
+    "component": "17896441",
+    "content": "2720be01"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Восстановление файлов-2d4": {
+    "component": "17896441",
+    "content": "5f737707"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Граф-1c0": {
+    "component": "17896441",
+    "content": "6ae9eddd"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Диктофон-7ec": {
+    "component": "17896441",
+    "content": "a0cf183d"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Ежедневные заметки-87d": {
+    "component": "17896441",
+    "content": "7ecaa479"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Избранное-7e8": {
+    "component": "17896441",
+    "content": "174ba63d"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Импорт Markdown-файлов-0e1": {
+    "component": "17896441",
+    "content": "440e3a8e"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Исходящие ссылки-8fa": {
+    "component": "17896441",
+    "content": "8d16ad58"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Компоновщик заметок-a74": {
+    "component": "17896441",
+    "content": "3af79da0"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Обратные ссылки-3bd": {
+    "component": "17896441",
+    "content": "cf1ddc30"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Открыть в приложении по умолчанию-53e": {
+    "component": "17896441",
+    "content": "7aac2820"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Палитра команд-ece": {
+    "component": "17896441",
+    "content": "ec80e378"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Панель тегов-948": {
+    "component": "17896441",
+    "content": "6f22d2bb"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Поиск-c0a": {
+    "component": "17896441",
+    "content": "cb686fcc"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Предпросмотр страницы-702": {
+    "component": "17896441",
+    "content": "d716fb45"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Пространства-753": {
+    "component": "17896441",
+    "content": "523e8acc"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Публикация-600": {
+    "component": "17896441",
+    "content": "d25f61fe"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Слайды-0c9": {
+    "component": "17896441",
+    "content": "d20f5aad"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Случайная заметка-2ee": {
+    "component": "17896441",
+    "content": "31d997d9"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Список плагинов-281": {
+    "component": "17896441",
+    "content": "8154a210"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Структура-297": {
+    "component": "17896441",
+    "content": "db5e2d07"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Счетчик слов-e5b": {
+    "component": "17896441",
+    "content": "77c79157"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Файловый менеджер-ce8": {
+    "component": "17896441",
+    "content": "4315d747"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Шаблоны-f1e": {
+    "component": "17896441",
+    "content": "a53a600c"
+  },
+  "/my-docs/docs/Obsidian/Плагины/Zettelkasten-c89": {
+    "component": "17896441",
+    "content": "0000fd92"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Вклад в развитие Obsidian-956": {
+    "component": "17896441",
+    "content": "d72408e9"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Заголовок YAML-474": {
+    "component": "17896441",
+    "content": "28bb30af"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Использование Obsidian URI-7d4": {
+    "component": "17896441",
+    "content": "172ae6b7"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Как Obsidian хранит данные-a17": {
+    "component": "17896441",
+    "content": "923eea70"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Очистка HTML-a45": {
+    "component": "17896441",
+    "content": "f42e15d5"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Перетаскивание объектов-adf": {
+    "component": "17896441",
+    "content": "c9e9c2da"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Поддерживаемые форматы файлов-d54": {
+    "component": "17896441",
+    "content": "d05ad506"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Пользовательский CSS-464": {
+    "component": "17896441",
+    "content": "daa24084"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Ранние сборки-30f": {
+    "component": "17896441",
+    "content": "6b4d3394"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Сторонние плагины-c5d": {
+    "component": "17896441",
+    "content": "2a849e00"
+  },
+  "/my-docs/docs/Obsidian/Продвинутое использование/Удаление файлов-0d7": {
+    "component": "17896441",
+    "content": "651fbd79"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Базовое ведение заметок-8c1": {
+    "component": "17896441",
+    "content": "8c006038"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Встраивание вложений в заметки-056": {
+    "component": "17896441",
+    "content": "37072436"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Добавление пользовательских CSS-990": {
+    "component": "17896441",
+    "content": "53e5357a"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Добавление псевдонимов к заметке-3f8": {
+    "component": "17896441",
+    "content": "c670cb8c"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Изменение настроек-c0e": {
+    "component": "17896441",
+    "content": "6be95c27"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Импорт данных-7ef": {
+    "component": "17896441",
+    "content": "f95e62d4"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Обновление Obsidian-a14": {
+    "component": "17896441",
+    "content": "49b68dac"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Переименование заметок-d2a": {
+    "component": "17896441",
+    "content": "e61e206d"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Работа с несколькими заметками-cac": {
+    "component": "17896441",
+    "content": "1e0bb190"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Работа с несколькими курсорами-078": {
+    "component": "17896441",
+    "content": "33e1214d"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Работа с несколькими хранилищами-e92": {
+    "component": "17896441",
+    "content": "6abc711b"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Работа с обратными ссылками-595": {
+    "component": "17896441",
+    "content": "fd482b6f"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Работа с тегами-399": {
+    "component": "17896441",
+    "content": "16877046"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Режимы просмотра и редактирования-841": {
+    "component": "17896441",
+    "content": "f37123b9"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Сбор данных-59f": {
+    "component": "17896441",
+    "content": "87d1034c"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Сворачивание заголовков и списков-453": {
+    "component": "17896441",
+    "content": "bc99c3cd"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Создание внутренних ссылок-fbb": {
+    "component": "17896441",
+    "content": "ea6d6297"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Создание заметок-29f": {
+    "component": "17896441",
+    "content": "7fa10bb4"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Создание ссылок на блоки-22c": {
+    "component": "17896441",
+    "content": "c6456a6a"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Сочетания клавиш-e96": {
+    "component": "17896441",
+    "content": "5e93fb32"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Управление вложениями-dda": {
+    "component": "17896441",
+    "content": "da533c04"
+  },
+  "/my-docs/docs/Obsidian/Руководства/Форматирование заметок-49d": {
+    "component": "17896441",
+    "content": "11238b77"
   },
   "/my-docs/docs/tutorial-basics/congratulations-af7": {
     "component": "17896441",

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Палитра команд",
+  "id": "Obsidian/Плагины/Палитра команд",
+  "isDocsHomePage": false,
+  "title": "Палитра команд",
+  "description": "Плагин «Палитра команд» включен по умолчанию, так как это очень полезный способ получить доступ практически ко всему функционалу Obsidian без необходимости запоминать все сочетания клавиш. Нажмите Ctrl/Cmd+P для вызова окна «Палитры команд» и просто напишите название команды. Если у команды есть сочетание клавиш, оно будет отображено справа от нее.",
+  "source": "@site/docs/Obsidian/Плагины/Палитра команд.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Палитра команд",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Палитра команд",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Палитра команд.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Открыть в приложении по умолчанию",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Открыть в приложении по умолчанию"
+  },
+  "next": {
+    "title": "Панель тегов",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Панель тегов"
+  }
+}

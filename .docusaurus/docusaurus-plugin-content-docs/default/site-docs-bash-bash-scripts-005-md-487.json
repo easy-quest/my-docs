@@ -2,8 +2,8 @@
   "unversionedId": "Bash/bash_scripts_005",
   "id": "Bash/bash_scripts_005",
   "isDocsHomePage": false,
-  "title": "bash_scripts_005",
-  "description": "---",
+  "title": "Bash-скрипты, часть 5",
+  "description": "сигналы, фоновые задачи, управление сценариями",
   "source": "@site/docs/Bash/bash_scripts_005.md",
   "sourceDirName": "Bash",
   "slug": "/Bash/bash_scripts_005",
@@ -11,7 +11,11 @@
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_005.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "created": "2021-08-29T16:39:41 (UTC +03:00)",
+    "source": "https://habr.com/ru/company/ruvds/blog/326594/",
+    "author": "Ivan Yastrebov"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Bash-скрипты, часть 4",

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Граф",
+  "id": "Obsidian/Плагины/Граф",
+  "isDocsHomePage": false,
+  "title": "Граф",
+  "description": "Плагин «Граф» показывает [[Создание внутренних ссылок|внутренние ссылки]] между вашими заметками в виде графа.",
+  "source": "@site/docs/Obsidian/Плагины/Граф.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Граф",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Граф",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Граф.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Восстановление файлов",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Восстановление файлов"
+  },
+  "next": {
+    "title": "Диктофон",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Диктофон"
+  }
+}

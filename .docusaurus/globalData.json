@@ -11,16 +11,6 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Кастомизация/Внешний вид",
-              "path": "/my-docs/docs/Кастомизация/Внешний вид",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Кастомизация/Пользовательские сочетания клавиш",
-              "path": "/my-docs/docs/Кастомизация/Пользовательские сочетания клавиш",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Bash/bash_scripts_001",
               "path": "/my-docs/docs/Bash/bash_scripts_001",
               "sidebar": "tutorialSidebar"
@@ -76,8 +66,353 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "DotFiles/First",
+              "path": "/my-docs/docs/DotFiles/First",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/my-docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Кастомизация/Внешний вид",
+              "path": "/my-docs/docs/Obsidian/Кастомизация/Внешний вид",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Кастомизация/Пользовательские сочетания клавиш",
+              "path": "/my-docs/docs/Obsidian/Кастомизация/Пользовательские сочетания клавиш",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Лицензии и дополнительные сервисы/Коммерческая лицензия",
+              "path": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Коммерческая лицензия",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Лицензии и дополнительные сервисы/Лицензия Catalyst",
+              "path": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Лицензия Catalyst",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Лицензии и дополнительные сервисы/Политика возврата средств",
+              "path": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Политика возврата средств",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Лицензии и дополнительные сервисы/Obsidian Publish",
+              "path": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Publish",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Лицензии и дополнительные сервисы/Obsidian Sync",
+              "path": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Sync",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Лицензии и дополнительные сервисы/Obsidian Unlimited",
+              "path": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Unlimited",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Области/Расположение областей",
+              "path": "/my-docs/docs/Obsidian/Области/Расположение областей",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Области/Связанная область",
+              "path": "/my-docs/docs/Obsidian/Области/Связанная область",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Быстрый переход",
+              "path": "/my-docs/docs/Obsidian/Плагины/Быстрый переход",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Восстановление файлов",
+              "path": "/my-docs/docs/Obsidian/Плагины/Восстановление файлов",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Граф",
+              "path": "/my-docs/docs/Obsidian/Плагины/Граф",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Диктофон",
+              "path": "/my-docs/docs/Obsidian/Плагины/Диктофон",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Ежедневные заметки",
+              "path": "/my-docs/docs/Obsidian/Плагины/Ежедневные заметки",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Избранное",
+              "path": "/my-docs/docs/Obsidian/Плагины/Избранное",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Импорт Markdown-файлов",
+              "path": "/my-docs/docs/Obsidian/Плагины/Импорт Markdown-файлов",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Исходящие ссылки",
+              "path": "/my-docs/docs/Obsidian/Плагины/Исходящие ссылки",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Компоновщик заметок",
+              "path": "/my-docs/docs/Obsidian/Плагины/Компоновщик заметок",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Обратные ссылки",
+              "path": "/my-docs/docs/Obsidian/Плагины/Обратные ссылки",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Открыть в приложении по умолчанию",
+              "path": "/my-docs/docs/Obsidian/Плагины/Открыть в приложении по умолчанию",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Палитра команд",
+              "path": "/my-docs/docs/Obsidian/Плагины/Палитра команд",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Панель тегов",
+              "path": "/my-docs/docs/Obsidian/Плагины/Панель тегов",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Поиск",
+              "path": "/my-docs/docs/Obsidian/Плагины/Поиск",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Предпросмотр страницы",
+              "path": "/my-docs/docs/Obsidian/Плагины/Предпросмотр страницы",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Пространства",
+              "path": "/my-docs/docs/Obsidian/Плагины/Пространства",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Публикация",
+              "path": "/my-docs/docs/Obsidian/Плагины/Публикация",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Слайды",
+              "path": "/my-docs/docs/Obsidian/Плагины/Слайды",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Случайная заметка",
+              "path": "/my-docs/docs/Obsidian/Плагины/Случайная заметка",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Список плагинов",
+              "path": "/my-docs/docs/Obsidian/Плагины/Список плагинов",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Структура",
+              "path": "/my-docs/docs/Obsidian/Плагины/Структура",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Счетчик слов",
+              "path": "/my-docs/docs/Obsidian/Плагины/Счетчик слов",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Файловый менеджер",
+              "path": "/my-docs/docs/Obsidian/Плагины/Файловый менеджер",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Шаблоны",
+              "path": "/my-docs/docs/Obsidian/Плагины/Шаблоны",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Плагины/Zettelkasten",
+              "path": "/my-docs/docs/Obsidian/Плагины/Zettelkasten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Вклад в развитие Obsidian",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Вклад в развитие Obsidian",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Заголовок YAML",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Заголовок YAML",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Использование Obsidian URI",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Использование Obsidian URI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Как Obsidian хранит данные",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Как Obsidian хранит данные",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Очистка HTML",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Очистка HTML",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Перетаскивание объектов",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Перетаскивание объектов",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Поддерживаемые форматы файлов",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Поддерживаемые форматы файлов",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Пользовательский CSS",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Пользовательский CSS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Ранние сборки",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Ранние сборки",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Сторонние плагины",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Сторонние плагины",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Продвинутое использование/Удаление файлов",
+              "path": "/my-docs/docs/Obsidian/Продвинутое использование/Удаление файлов",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Базовое ведение заметок",
+              "path": "/my-docs/docs/Obsidian/Руководства/Базовое ведение заметок",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Встраивание вложений в заметки",
+              "path": "/my-docs/docs/Obsidian/Руководства/Встраивание вложений в заметки",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Добавление пользовательских CSS",
+              "path": "/my-docs/docs/Obsidian/Руководства/Добавление пользовательских CSS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Добавление псевдонимов к заметке",
+              "path": "/my-docs/docs/Obsidian/Руководства/Добавление псевдонимов к заметке",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Изменение настроек",
+              "path": "/my-docs/docs/Obsidian/Руководства/Изменение настроек",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Импорт данных",
+              "path": "/my-docs/docs/Obsidian/Руководства/Импорт данных",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Обновление Obsidian",
+              "path": "/my-docs/docs/Obsidian/Руководства/Обновление Obsidian",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Переименование заметок",
+              "path": "/my-docs/docs/Obsidian/Руководства/Переименование заметок",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Работа с несколькими заметками",
+              "path": "/my-docs/docs/Obsidian/Руководства/Работа с несколькими заметками",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Работа с несколькими курсорами",
+              "path": "/my-docs/docs/Obsidian/Руководства/Работа с несколькими курсорами",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Работа с несколькими хранилищами",
+              "path": "/my-docs/docs/Obsidian/Руководства/Работа с несколькими хранилищами",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Работа с обратными ссылками",
+              "path": "/my-docs/docs/Obsidian/Руководства/Работа с обратными ссылками",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Работа с тегами",
+              "path": "/my-docs/docs/Obsidian/Руководства/Работа с тегами",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Режимы просмотра и редактирования",
+              "path": "/my-docs/docs/Obsidian/Руководства/Режимы просмотра и редактирования",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Сбор данных",
+              "path": "/my-docs/docs/Obsidian/Руководства/Сбор данных",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Сворачивание заголовков и списков",
+              "path": "/my-docs/docs/Obsidian/Руководства/Сворачивание заголовков и списков",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Создание внутренних ссылок",
+              "path": "/my-docs/docs/Obsidian/Руководства/Создание внутренних ссылок",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Создание заметок",
+              "path": "/my-docs/docs/Obsidian/Руководства/Создание заметок",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Создание ссылок на блоки",
+              "path": "/my-docs/docs/Obsidian/Руководства/Создание ссылок на блоки",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Сочетания клавиш",
+              "path": "/my-docs/docs/Obsidian/Руководства/Сочетания клавиш",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Управление вложениями",
+              "path": "/my-docs/docs/Obsidian/Руководства/Управление вложениями",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Obsidian/Руководства/Форматирование заметок",
+              "path": "/my-docs/docs/Obsidian/Руководства/Форматирование заметок",
               "sidebar": "tutorialSidebar"
             },
             {

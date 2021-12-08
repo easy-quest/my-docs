@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Плагины/Слайды",
+  "id": "Obsidian/Плагины/Слайды",
+  "isDocsHomePage": false,
+  "title": "Слайды",
+  "description": "Плагин «Слайды» позволяет делать простые презентации прямо внутри Obsidian.",
+  "source": "@site/docs/Obsidian/Плагины/Слайды.md",
+  "sourceDirName": "Obsidian/Плагины",
+  "slug": "/Obsidian/Плагины/Слайды",
+  "permalink": "/my-docs/docs/Obsidian/Плагины/Слайды",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Плагины/Слайды.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Публикация",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Публикация"
+  },
+  "next": {
+    "title": "Случайная заметка",
+    "permalink": "/my-docs/docs/Obsidian/Плагины/Случайная заметка"
+  }
+}

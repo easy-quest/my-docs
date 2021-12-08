@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Кастомизация/Пользовательские сочетания клавиш",
+  "id": "Obsidian/Кастомизация/Пользовательские сочетания клавиш",
+  "isDocsHomePage": false,
+  "title": "Пользовательские сочетания клавиш",
+  "description": "Большинство сочетаний клавиш могут быть настроены в Obsidian.",
+  "source": "@site/docs/Obsidian/Кастомизация/Пользовательские сочетания клавиш.md",
+  "sourceDirName": "Obsidian/Кастомизация",
+  "slug": "/Obsidian/Кастомизация/Пользовательские сочетания клавиш",
+  "permalink": "/my-docs/docs/Obsidian/Кастомизация/Пользовательские сочетания клавиш",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Кастомизация/Пользовательские сочетания клавиш.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Внешний вид",
+    "permalink": "/my-docs/docs/Obsidian/Кастомизация/Внешний вид"
+  },
+  "next": {
+    "title": "Obsidian Publish",
+    "permalink": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Obsidian Publish"
+  }
+}

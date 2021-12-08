@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Руководства/Создание ссылок на блоки",
+  "id": "Obsidian/Руководства/Создание ссылок на блоки",
+  "isDocsHomePage": false,
+  "title": "Создание ссылок на блоки",
+  "description": "В Obsidian версии 0.9.5 и новее, в дополнение к [[Создание внутренних ссылок#Ссылка на заголовок|ссылкам на заголовки]], вы также можете использовать ссылки на блоки.",
+  "source": "@site/docs/Obsidian/Руководства/Создание ссылок на блоки.md",
+  "sourceDirName": "Obsidian/Руководства",
+  "slug": "/Obsidian/Руководства/Создание ссылок на блоки",
+  "permalink": "/my-docs/docs/Obsidian/Руководства/Создание ссылок на блоки",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Руководства/Создание ссылок на блоки.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Создание заметок",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Создание заметок"
+  },
+  "next": {
+    "title": "Сочетания клавиш",
+    "permalink": "/my-docs/docs/Obsidian/Руководства/Сочетания клавиш"
+  }
+}

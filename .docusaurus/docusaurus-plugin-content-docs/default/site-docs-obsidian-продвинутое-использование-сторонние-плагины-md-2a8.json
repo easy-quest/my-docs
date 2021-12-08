@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Продвинутое использование/Сторонние плагины",
+  "id": "Obsidian/Продвинутое использование/Сторонние плагины",
+  "isDocsHomePage": false,
+  "title": "Сторонние плагины",
+  "description": "Obsidian позволяет разработчикам писать сторонние плагины для расширения функциональности Obsidian.",
+  "source": "@site/docs/Obsidian/Продвинутое использование/Сторонние плагины.md",
+  "sourceDirName": "Obsidian/Продвинутое использование",
+  "slug": "/Obsidian/Продвинутое использование/Сторонние плагины",
+  "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Сторонние плагины",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Продвинутое использование/Сторонние плагины.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ранние сборки",
+    "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Ранние сборки"
+  },
+  "next": {
+    "title": "Удаление файлов",
+    "permalink": "/my-docs/docs/Obsidian/Продвинутое использование/Удаление файлов"
+  }
+}

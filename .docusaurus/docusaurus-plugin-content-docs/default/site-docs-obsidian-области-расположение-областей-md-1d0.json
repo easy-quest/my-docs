@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Obsidian/Области/Расположение областей",
+  "id": "Obsidian/Области/Расположение областей",
+  "isDocsHomePage": false,
+  "title": "Расположение областей",
+  "description": "Одна из вещей, которая отличает Obsidian от других приложений для создания заметок — это то, насколько легко открыть несколько файлов в выбранном вами расположении.",
+  "source": "@site/docs/Obsidian/Области/Расположение областей.md",
+  "sourceDirName": "Obsidian/Области",
+  "slug": "/Obsidian/Области/Расположение областей",
+  "permalink": "/my-docs/docs/Obsidian/Области/Расположение областей",
+  "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Obsidian/Области/Расположение областей.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Политика возврата средств",
+    "permalink": "/my-docs/docs/Obsidian/Лицензии и дополнительные сервисы/Политика возврата средств"
+  },
+  "next": {
+    "title": "Связанная область",
+    "permalink": "/my-docs/docs/Obsidian/Области/Связанная область"
+  }
+}
