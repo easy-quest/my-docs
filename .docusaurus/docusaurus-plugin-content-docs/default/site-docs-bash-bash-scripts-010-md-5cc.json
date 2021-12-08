@@ -2,7 +2,7 @@
   "unversionedId": "Bash/bash_scripts_010",
   "id": "Bash/bash_scripts_010",
   "isDocsHomePage": false,
-  "title": "Bash-скрипты, часть 10 практические примеры",
+  "title": "Bash-скрипты, часть 10",
   "description": "практические примеры",
   "source": "@site/docs/Bash/bash_scripts_010.md",
   "sourceDirName": "Bash",
@@ -14,8 +14,7 @@
   "frontMatter": {
     "created": "2021-08-29T16:46:01 (UTC +03:00)",
     "source": "https://habr.com/ru/company/ruvds/blog/327530/",
-    "author": "Ivan Yastrebov",
-    "title": "Bash-скрипты, часть 10 практические примеры"
+    "author": "Ivan Yastrebov"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

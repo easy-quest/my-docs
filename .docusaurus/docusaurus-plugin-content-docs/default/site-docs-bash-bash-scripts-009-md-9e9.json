@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Bash-скрипты, часть 8 язык обработки данных awk",
+    "title": "Bash-скрипты, часть 8",
     "permalink": "/my-docs/docs/Bash/bash_scripts_008"
   },
   "next": {
-    "title": "Bash-скрипты, часть 10 практические примеры",
+    "title": "Bash-скрипты, часть 10",
     "permalink": "/my-docs/docs/Bash/bash_scripts_010"
   }
 }

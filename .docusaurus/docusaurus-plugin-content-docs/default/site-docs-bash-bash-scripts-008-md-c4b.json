@@ -2,7 +2,7 @@
   "unversionedId": "Bash/bash_scripts_008",
   "id": "Bash/bash_scripts_008",
   "isDocsHomePage": false,
-  "title": "Bash-скрипты, часть 8 язык обработки данных awk",
+  "title": "Bash-скрипты, часть 8",
   "description": "язык обработки данных awk",
   "source": "@site/docs/Bash/bash_scripts_008.md",
   "sourceDirName": "Bash",
@@ -14,8 +14,7 @@
   "frontMatter": {
     "created": "2021-08-29T16:43:17 (UTC +03:00)",
     "source": "https://habr.com/ru/company/ruvds/blog/327530/",
-    "author": "Ivan Yastrebov",
-    "title": "Bash-скрипты, часть 8 язык обработки данных awk"
+    "author": "Ivan Yastrebov"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
