@@ -11,7 +11,8 @@
       {
         "type": "link",
         "label": "Tutorial Intro",
-        "href": "/my-docs/docs/intro"
+        "href": "/my-docs/docs/intro",
+        "docId": "intro"
       },
       {
         "type": "category",
@@ -22,32 +23,38 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/my-docs/docs/tutorial-basics/create-a-page"
+            "href": "/my-docs/docs/tutorial-basics/create-a-page",
+            "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/my-docs/docs/tutorial-basics/create-a-document"
+            "href": "/my-docs/docs/tutorial-basics/create-a-document",
+            "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/my-docs/docs/tutorial-basics/create-a-blog-post"
+            "href": "/my-docs/docs/tutorial-basics/create-a-blog-post",
+            "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/my-docs/docs/tutorial-basics/markdown-features"
+            "href": "/my-docs/docs/tutorial-basics/markdown-features",
+            "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/my-docs/docs/tutorial-basics/deploy-your-site"
+            "href": "/my-docs/docs/tutorial-basics/deploy-your-site",
+            "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/my-docs/docs/tutorial-basics/congratulations"
+            "href": "/my-docs/docs/tutorial-basics/congratulations",
+            "docId": "tutorial-basics/congratulations"
           }
         ]
       },
@@ -60,75 +67,110 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/my-docs/docs/tutorial-extras/manage-docs-versions"
+            "href": "/my-docs/docs/tutorial-extras/manage-docs-versions",
+            "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/my-docs/docs/tutorial-extras/translate-your-site"
+            "href": "/my-docs/docs/tutorial-extras/translate-your-site",
+            "docId": "tutorial-extras/translate-your-site"
           }
         ]
       },
       {
         "type": "category",
-        "label": "Bash",
+        "label": "Tutorial - Bash",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Bash-скрипты, часть 1",
-            "href": "/my-docs/docs/Bash/bash_scripts_001"
+            "href": "/my-docs/docs/Bash/bash_scripts_001",
+            "docId": "Bash/bash_scripts_001"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 2",
-            "href": "/my-docs/docs/Bash/bash_scripts_002"
+            "href": "/my-docs/docs/Bash/bash_scripts_002",
+            "docId": "Bash/bash_scripts_002"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 3",
-            "href": "/my-docs/docs/Bash/bash_scripts_003"
+            "href": "/my-docs/docs/Bash/bash_scripts_003",
+            "docId": "Bash/bash_scripts_003"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 4",
-            "href": "/my-docs/docs/Bash/bash_scripts_004"
+            "href": "/my-docs/docs/Bash/bash_scripts_004",
+            "docId": "Bash/bash_scripts_004"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 5",
-            "href": "/my-docs/docs/Bash/bash_scripts_005"
+            "href": "/my-docs/docs/Bash/bash_scripts_005",
+            "docId": "Bash/bash_scripts_005"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 6",
-            "href": "/my-docs/docs/Bash/bash_scripts_006"
+            "href": "/my-docs/docs/Bash/bash_scripts_006",
+            "docId": "Bash/bash_scripts_006"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 7",
-            "href": "/my-docs/docs/Bash/bash_scripts_007"
+            "href": "/my-docs/docs/Bash/bash_scripts_007",
+            "docId": "Bash/bash_scripts_007"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 8",
-            "href": "/my-docs/docs/Bash/bash_scripts_008"
+            "href": "/my-docs/docs/Bash/bash_scripts_008",
+            "docId": "Bash/bash_scripts_008"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 9",
-            "href": "/my-docs/docs/Bash/bash_scripts_009"
+            "href": "/my-docs/docs/Bash/bash_scripts_009",
+            "docId": "Bash/bash_scripts_009"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 10",
-            "href": "/my-docs/docs/Bash/bash_scripts_010"
+            "href": "/my-docs/docs/Bash/bash_scripts_010",
+            "docId": "Bash/bash_scripts_010"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 11",
-            "href": "/my-docs/docs/Bash/bash_scripts_011"
+            "href": "/my-docs/docs/Bash/bash_scripts_011",
+            "docId": "Bash/bash_scripts_011"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - asdf",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [],
+        "href": "/my-docs/docs/asdf/"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - dot env",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "dot_env_files",
+            "href": "/my-docs/docs/ENV/dot_env_files",
+            "docId": "ENV/dot_env_files"
           }
         ]
       },
@@ -141,10 +183,151 @@
           {
             "type": "link",
             "label": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
-            "href": "/my-docs/docs/DotFiles/First"
+            "href": "/my-docs/docs/DotFiles/First",
+            "docId": "DotFiles/First"
           }
         ]
       }
     ]
+  },
+  "docs": {
+    "asdf/asdf": {
+      "id": "asdf/asdf",
+      "title": "asdf",
+      "description": "asdf -- универсальный расширяемый менеджер версий, поддерживающий Python, Node, Elixir и вообще любые другие языки и окружения, для которых имеет смысл иметь несколько версий на машине одновременно.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_001": {
+      "id": "Bash/bash_scripts_001",
+      "title": "Bash-скрипты, часть 1",
+      "description": "начало",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_002": {
+      "id": "Bash/bash_scripts_002",
+      "title": "Bash-скрипты, часть 2",
+      "description": "циклы",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_003": {
+      "id": "Bash/bash_scripts_003",
+      "title": "Bash-скрипты, часть 3",
+      "description": "параметры и ключи командной строки",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_004": {
+      "id": "Bash/bash_scripts_004",
+      "title": "Bash-скрипты, часть 4",
+      "description": "ввод и вывод",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_005": {
+      "id": "Bash/bash_scripts_005",
+      "title": "Bash-скрипты, часть 5",
+      "description": "сигналы, фоновые задачи, управление сценариями",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_006": {
+      "id": "Bash/bash_scripts_006",
+      "title": "Bash-скрипты, часть 6",
+      "description": "функции и разработка библиотек",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_007": {
+      "id": "Bash/bash_scripts_007",
+      "title": "Bash-скрипты, часть 7",
+      "description": "sed и обработка текстов",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_008": {
+      "id": "Bash/bash_scripts_008",
+      "title": "Bash-скрипты, часть 8",
+      "description": "язык обработки данных awk",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_009": {
+      "id": "Bash/bash_scripts_009",
+      "title": "Bash-скрипты, часть 9",
+      "description": "регулярные выражения",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_010": {
+      "id": "Bash/bash_scripts_010",
+      "title": "Bash-скрипты, часть 10",
+      "description": "практические примеры",
+      "sidebar": "tutorialSidebar"
+    },
+    "Bash/bash_scripts_011": {
+      "id": "Bash/bash_scripts_011",
+      "title": "Bash-скрипты, часть 11",
+      "description": "expect и автоматизация интерактивных утилит",
+      "sidebar": "tutorialSidebar"
+    },
+    "DotFiles/First": {
+      "id": "DotFiles/First",
+      "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "ENV/dot_env_files": {
+      "id": "ENV/dot_env_files",
+      "title": "dot_env_files",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Tutorial Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/congratulations": {
+      "id": "tutorial-basics/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-blog-post": {
+      "id": "tutorial-basics/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-document": {
+      "id": "tutorial-basics/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-page": {
+      "id": "tutorial-basics/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/deploy-your-site": {
+      "id": "tutorial-basics/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/markdown-features": {
+      "id": "tutorial-basics/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/manage-docs-versions": {
+      "id": "tutorial-extras/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/translate-your-site": {
+      "id": "tutorial-extras/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    }
   }
 }

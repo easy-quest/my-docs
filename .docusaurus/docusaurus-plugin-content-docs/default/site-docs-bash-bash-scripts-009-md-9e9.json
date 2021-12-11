@@ -1,7 +1,6 @@
 {
   "unversionedId": "Bash/bash_scripts_009",
   "id": "Bash/bash_scripts_009",
-  "isDocsHomePage": false,
   "title": "Bash-скрипты, часть 9",
   "description": "регулярные выражения",
   "source": "@site/docs/Bash/bash_scripts_009.md",

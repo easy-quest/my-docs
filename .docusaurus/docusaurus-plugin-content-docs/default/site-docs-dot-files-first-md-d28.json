@@ -1,7 +1,6 @@
 {
   "unversionedId": "DotFiles/First",
   "id": "DotFiles/First",
-  "isDocsHomePage": false,
   "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
   "description": "---",
   "source": "@site/docs/DotFiles/First.md",
@@ -18,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Bash-скрипты, часть 11",
-    "permalink": "/my-docs/docs/Bash/bash_scripts_011"
+    "title": "dot_env_files",
+    "permalink": "/my-docs/docs/ENV/dot_env_files"
   }
 }

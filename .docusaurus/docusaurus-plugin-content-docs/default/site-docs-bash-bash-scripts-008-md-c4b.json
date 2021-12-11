@@ -1,7 +1,6 @@
 {
   "unversionedId": "Bash/bash_scripts_008",
   "id": "Bash/bash_scripts_008",
-  "isDocsHomePage": false,
   "title": "Bash-скрипты, часть 8",
   "description": "язык обработки данных awk",
   "source": "@site/docs/Bash/bash_scripts_008.md",

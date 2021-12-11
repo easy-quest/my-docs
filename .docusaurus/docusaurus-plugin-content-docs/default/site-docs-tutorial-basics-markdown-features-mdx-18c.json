@@ -1,7 +1,6 @@
 {
   "unversionedId": "tutorial-basics/markdown-features",
   "id": "tutorial-basics/markdown-features",
-  "isDocsHomePage": false,
   "title": "Markdown Features",
   "description": "Docusaurus supports Markdown and a few additional features.",
   "source": "@site/docs/tutorial-basics/markdown-features.mdx",

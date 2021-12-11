@@ -368,7 +368,7 @@ export default {
     "docs": {
       "versionPersistence": "localStorage"
     },
-    "metadatas": [],
+    "metadata": [],
     "hideableSidebar": false,
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -384,6 +384,9 @@ export default {
     "localeConfigs": {}
   },
   "onDuplicateRoutes": "warn",
+  "staticDirectories": [
+    "static"
+  ],
   "customFields": {},
   "themes": [],
   "noIndex": false

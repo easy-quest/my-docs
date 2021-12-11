@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "asdf/asdf",
+              "path": "/my-docs/docs/asdf/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Bash/bash_scripts_001",
               "path": "/my-docs/docs/Bash/bash_scripts_001",
               "sidebar": "tutorialSidebar"
@@ -68,6 +73,11 @@
             {
               "id": "DotFiles/First",
               "path": "/my-docs/docs/DotFiles/First",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ENV/dot_env_files",
+              "path": "/my-docs/docs/ENV/dot_env_files",
               "sidebar": "tutorialSidebar"
             },
             {

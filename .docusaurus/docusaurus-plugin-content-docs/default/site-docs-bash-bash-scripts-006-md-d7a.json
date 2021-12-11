@@ -1,7 +1,6 @@
 {
   "unversionedId": "Bash/bash_scripts_006",
   "id": "Bash/bash_scripts_006",
-  "isDocsHomePage": false,
   "title": "Bash-скрипты, часть 6",
   "description": "функции и разработка библиотек",
   "source": "@site/docs/Bash/bash_scripts_006.md",

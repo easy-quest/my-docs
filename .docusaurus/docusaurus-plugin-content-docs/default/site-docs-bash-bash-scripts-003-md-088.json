@@ -1,7 +1,6 @@
 {
   "unversionedId": "Bash/bash_scripts_003",
   "id": "Bash/bash_scripts_003",
-  "isDocsHomePage": false,
   "title": "Bash-скрипты, часть 3",
   "description": "параметры и ключи командной строки",
   "source": "@site/docs/Bash/bash_scripts_003.md",

@@ -1,7 +1,6 @@
 {
   "unversionedId": "Bash/bash_scripts_005",
   "id": "Bash/bash_scripts_005",
-  "isDocsHomePage": false,
   "title": "Bash-скрипты, часть 5",
   "description": "сигналы, фоновые задачи, управление сценариями",
   "source": "@site/docs/Bash/bash_scripts_005.md",

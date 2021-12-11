@@ -1,7 +1,6 @@
 {
   "unversionedId": "tutorial-basics/congratulations",
   "id": "tutorial-basics/congratulations",
-  "isDocsHomePage": false,
   "title": "Congratulations!",
   "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
   "source": "@site/docs/tutorial-basics/congratulations.md",

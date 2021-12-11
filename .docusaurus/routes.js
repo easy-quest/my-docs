@@ -65,8 +65,14 @@ export default [
   },
   {
     path: '/my-docs/docs',
-    component: ComponentCreator('/my-docs/docs','4da'),
+    component: ComponentCreator('/my-docs/docs','aec'),
     routes: [
+      {
+        path: '/my-docs/docs/asdf/',
+        component: ComponentCreator('/my-docs/docs/asdf/','c3e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/my-docs/docs/Bash/bash_scripts_001',
         component: ComponentCreator('/my-docs/docs/Bash/bash_scripts_001','2bd'),
@@ -136,6 +142,12 @@ export default [
       {
         path: '/my-docs/docs/DotFiles/First',
         component: ComponentCreator('/my-docs/docs/DotFiles/First','15c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-docs/docs/ENV/dot_env_files',
+        component: ComponentCreator('/my-docs/docs/ENV/dot_env_files','db8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

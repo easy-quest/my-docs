@@ -1,7 +1,6 @@
 {
   "unversionedId": "Bash/bash_scripts_007",
   "id": "Bash/bash_scripts_007",
-  "isDocsHomePage": false,
   "title": "Bash-скрипты, часть 7",
   "description": "sed и обработка текстов",
   "source": "@site/docs/Bash/bash_scripts_007.md",

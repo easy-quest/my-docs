@@ -1,7 +1,6 @@
 {
   "unversionedId": "tutorial-basics/create-a-document",
   "id": "tutorial-basics/create-a-document",
-  "isDocsHomePage": false,
   "title": "Create a Document",
   "description": "Documents are groups of pages connected through:",
   "source": "@site/docs/tutorial-basics/create-a-document.md",

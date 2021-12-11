@@ -1,7 +1,6 @@
 {
   "unversionedId": "tutorial-extras/manage-docs-versions",
   "id": "tutorial-extras/manage-docs-versions",
-  "isDocsHomePage": false,
   "title": "Manage Docs Versions",
   "description": "Docusaurus can manage multiple versions of your docs.",
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",

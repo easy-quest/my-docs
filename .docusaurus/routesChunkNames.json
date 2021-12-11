@@ -103,9 +103,13 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/my-docs/docs-4da": {
+  "/my-docs/docs-aec": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
+  },
+  "/my-docs/docs/asdf/-c3e": {
+    "component": "17896441",
+    "content": "6b2d8f6b"
   },
   "/my-docs/docs/Bash/bash_scripts_001-2bd": {
     "component": "17896441",
@@ -154,6 +158,10 @@
   "/my-docs/docs/DotFiles/First-15c": {
     "component": "17896441",
     "content": "d28c775a"
+  },
+  "/my-docs/docs/ENV/dot_env_files-db8": {
+    "component": "17896441",
+    "content": "9df9d59e"
   },
   "/my-docs/docs/intro-e8d": {
     "component": "17896441",

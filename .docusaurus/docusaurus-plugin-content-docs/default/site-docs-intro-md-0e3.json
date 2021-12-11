@@ -1,7 +1,6 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "isDocsHomePage": false,
   "title": "Tutorial Intro",
   "description": "Let's discover Docusaurus in less than 5 minutes.",
   "source": "@site/docs/intro.md",

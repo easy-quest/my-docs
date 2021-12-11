@@ -1,7 +1,6 @@
 {
   "unversionedId": "Bash/bash_scripts_011",
   "id": "Bash/bash_scripts_011",
-  "isDocsHomePage": false,
   "title": "Bash-скрипты, часть 11",
   "description": "expect и автоматизация интерактивных утилит",
   "source": "@site/docs/Bash/bash_scripts_011.md",
@@ -22,7 +21,7 @@
     "permalink": "/my-docs/docs/Bash/bash_scripts_010"
   },
   "next": {
-    "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
-    "permalink": "/my-docs/docs/DotFiles/First"
+    "title": "asdf",
+    "permalink": "/my-docs/docs/asdf/"
   }
 }
