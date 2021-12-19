@@ -15,3 +15,6 @@ deploy: test
 	GIT_USER=easy-quest
 	USE_SSH=true
 	node_modules/.bin/docusaurus deploy
+
+clear:
+	rm -Rf ./build
