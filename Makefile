@@ -5,7 +5,7 @@ build:
 	yarn run build
 	
 install:
-	yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest
+	yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest;direnv allow
 
 test:
 	export GIT_USER=easy-quest;echo ${GIT_USER}
