@@ -14,63 +14,40 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/ccc/Документы/my-docs/sidebars.js",
-          "contentPath": "/home/ccc/Документы/my-docs/docs",
-          "contentPathLocalized": "/home/ccc/Документы/my-docs/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "intro",
+          "sidebarFilePath": "/home/sss/my-docs/sidebars.js",
+          "contentPath": "/home/sss/my-docs/docs",
+          "contentPathLocalized": "/home/sss/my-docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "Кастомизация/Внешний вид",
-              "id": "Кастомизация/Внешний вид",
-              "isDocsHomePage": false,
-              "title": "Внешний вид",
-              "description": "Базовая тема оформления",
-              "source": "@site/docs/Кастомизация/Внешний вид.md",
-              "sourceDirName": "Кастомизация",
-              "slug": "/Кастомизация/Внешний вид",
-              "permalink": "/my-docs/docs/Кастомизация/Внешний вид",
-              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Кастомизация/Внешний вид.md",
+              "unversionedId": "asdf/asdf",
+              "id": "asdf/asdf",
+              "title": "asdf",
+              "description": "asdf -- универсальный расширяемый менеджер версий, поддерживающий Python, Node, Elixir и вообще любые другие языки и окружения, для которых имеет смысл иметь несколько версий на машине одновременно.",
+              "source": "@site/docs/asdf/asdf.md",
+              "sourceDirName": "asdf",
+              "slug": "/asdf/",
+              "permalink": "/my-docs/docs/asdf/",
+              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/asdf/asdf.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "created": "2021-12-10T18:47:54 (UTC +03:00)",
+                "source": "https://webhamster.ru/mytetrashare/index/mtb339/1566379388isz3v03625",
+                "author": "Ivan Yastrebov"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Translate your site",
-                "permalink": "/my-docs/docs/tutorial-extras/translate-your-site"
+                "title": "Bash-скрипты, часть 11",
+                "permalink": "/my-docs/docs/Bash/bash_scripts_011"
               },
               "next": {
-                "title": "Пользовательские сочетания клавиш",
-                "permalink": "/my-docs/docs/Кастомизация/Пользовательские сочетания клавиш"
-              }
-            },
-            {
-              "unversionedId": "Кастомизация/Пользовательские сочетания клавиш",
-              "id": "Кастомизация/Пользовательские сочетания клавиш",
-              "isDocsHomePage": false,
-              "title": "Пользовательские сочетания клавиш",
-              "description": "Большинство сочетаний клавиш могут быть настроены в Obsidian.",
-              "source": "@site/docs/Кастомизация/Пользовательские сочетания клавиш.md",
-              "sourceDirName": "Кастомизация",
-              "slug": "/Кастомизация/Пользовательские сочетания клавиш",
-              "permalink": "/my-docs/docs/Кастомизация/Пользовательские сочетания клавиш",
-              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Кастомизация/Пользовательские сочетания клавиш.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Внешний вид",
-                "permalink": "/my-docs/docs/Кастомизация/Внешний вид"
-              },
-              "next": {
-                "title": "Bash-скрипты, часть 1",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_001"
+                "title": "dot_env_files",
+                "permalink": "/my-docs/docs/M_ENV/dot_env_files"
               }
             },
             {
               "unversionedId": "Bash/bash_scripts_001",
               "id": "Bash/bash_scripts_001",
-              "isDocsHomePage": false,
               "title": "Bash-скрипты, часть 1",
               "description": "начало",
               "source": "@site/docs/Bash/bash_scripts_001.md",
@@ -80,15 +57,18 @@
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_001.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 1,
               "frontMatter": {
                 "created": "2021-08-29T16:37:45 (UTC +03:00)",
                 "source": "https://habr.com/ru/company/ruvds/blog/326594/",
-                "author": "Ivan Yastrebov"
+                "author": "Ivan Yastrebov",
+                "sidebar_label": "Bash-скрипты, часть 1",
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Пользовательские сочетания клавиш",
-                "permalink": "/my-docs/docs/Кастомизация/Пользовательские сочетания клавиш"
+                "title": "Translate your site",
+                "permalink": "/my-docs/docs/tutorial-extras/translate-your-site"
               },
               "next": {
                 "title": "Bash-скрипты, часть 2",
@@ -98,7 +78,6 @@
             {
               "unversionedId": "Bash/bash_scripts_002",
               "id": "Bash/bash_scripts_002",
-              "isDocsHomePage": false,
               "title": "Bash-скрипты, часть 2",
               "description": "циклы",
               "source": "@site/docs/Bash/bash_scripts_002.md",
@@ -108,21 +87,24 @@
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_002.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Bash-скрипты, часть 2",
+                "sidebar_position": 2
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 1",
                 "permalink": "/my-docs/docs/Bash/bash_scripts_001"
               },
               "next": {
-                "title": "Bash-скрипты, часть 3",
+                "title": "Bash-скрипты, часть 3 ",
                 "permalink": "/my-docs/docs/Bash/bash_scripts_003"
               }
             },
             {
               "unversionedId": "Bash/bash_scripts_003",
               "id": "Bash/bash_scripts_003",
-              "isDocsHomePage": false,
               "title": "Bash-скрипты, часть 3",
               "description": "параметры и ключи командной строки",
               "source": "@site/docs/Bash/bash_scripts_003.md",
@@ -132,10 +114,13 @@
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_003.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 3,
               "frontMatter": {
                 "created": "2021-08-29T16:38:50 (UTC +03:00)",
                 "source": "https://habr.com/ru/company/ruvds/blog/326594/",
-                "author": "Ivan Yastrebov"
+                "author": "Ivan Yastrebov",
+                "sidebar_label": "Bash-скрипты, часть 3 ",
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -150,7 +135,6 @@
             {
               "unversionedId": "Bash/bash_scripts_004",
               "id": "Bash/bash_scripts_004",
-              "isDocsHomePage": false,
               "title": "Bash-скрипты, часть 4",
               "description": "ввод и вывод",
               "source": "@site/docs/Bash/bash_scripts_004.md",
@@ -167,20 +151,19 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Bash-скрипты, часть 3",
+                "title": "Bash-скрипты, часть 3 ",
                 "permalink": "/my-docs/docs/Bash/bash_scripts_003"
               },
               "next": {
-                "title": "bash_scripts_005",
+                "title": "Bash-скрипты, часть 5",
                 "permalink": "/my-docs/docs/Bash/bash_scripts_005"
               }
             },
             {
               "unversionedId": "Bash/bash_scripts_005",
               "id": "Bash/bash_scripts_005",
-              "isDocsHomePage": false,
-              "title": "bash_scripts_005",
-              "description": "---",
+              "title": "Bash-скрипты, часть 5",
+              "description": "сигналы, фоновые задачи, управление сценариями",
               "source": "@site/docs/Bash/bash_scripts_005.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_005",
@@ -188,7 +171,11 @@
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_005.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "created": "2021-08-29T16:39:41 (UTC +03:00)",
+                "source": "https://habr.com/ru/company/ruvds/blog/326594/",
+                "author": "Ivan Yastrebov"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 4",
@@ -202,7 +189,6 @@
             {
               "unversionedId": "Bash/bash_scripts_006",
               "id": "Bash/bash_scripts_006",
-              "isDocsHomePage": false,
               "title": "Bash-скрипты, часть 6",
               "description": "функции и разработка библиотек",
               "source": "@site/docs/Bash/bash_scripts_006.md",
@@ -219,7 +205,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "bash_scripts_005",
+                "title": "Bash-скрипты, часть 5",
                 "permalink": "/my-docs/docs/Bash/bash_scripts_005"
               },
               "next": {
@@ -230,7 +216,6 @@
             {
               "unversionedId": "Bash/bash_scripts_007",
               "id": "Bash/bash_scripts_007",
-              "isDocsHomePage": false,
               "title": "Bash-скрипты, часть 7",
               "description": "sed и обработка текстов",
               "source": "@site/docs/Bash/bash_scripts_007.md",
@@ -251,15 +236,14 @@
                 "permalink": "/my-docs/docs/Bash/bash_scripts_006"
               },
               "next": {
-                "title": "Bash-скрипты, часть 8 язык обработки данных awk",
+                "title": "Bash-скрипты, часть 8",
                 "permalink": "/my-docs/docs/Bash/bash_scripts_008"
               }
             },
             {
               "unversionedId": "Bash/bash_scripts_008",
               "id": "Bash/bash_scripts_008",
-              "isDocsHomePage": false,
-              "title": "Bash-скрипты, часть 8 язык обработки данных awk",
+              "title": "Bash-скрипты, часть 8",
               "description": "язык обработки данных awk",
               "source": "@site/docs/Bash/bash_scripts_008.md",
               "sourceDirName": "Bash",
@@ -271,8 +255,7 @@
               "frontMatter": {
                 "created": "2021-08-29T16:43:17 (UTC +03:00)",
                 "source": "https://habr.com/ru/company/ruvds/blog/327530/",
-                "author": "Ivan Yastrebov",
-                "title": "Bash-скрипты, часть 8 язык обработки данных awk"
+                "author": "Ivan Yastrebov"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -287,7 +270,6 @@
             {
               "unversionedId": "Bash/bash_scripts_009",
               "id": "Bash/bash_scripts_009",
-              "isDocsHomePage": false,
               "title": "Bash-скрипты, часть 9",
               "description": "регулярные выражения",
               "source": "@site/docs/Bash/bash_scripts_009.md",
@@ -304,19 +286,18 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Bash-скрипты, часть 8 язык обработки данных awk",
+                "title": "Bash-скрипты, часть 8",
                 "permalink": "/my-docs/docs/Bash/bash_scripts_008"
               },
               "next": {
-                "title": "Bash-скрипты, часть 10 практические примеры",
+                "title": "Bash-скрипты, часть 10",
                 "permalink": "/my-docs/docs/Bash/bash_scripts_010"
               }
             },
             {
               "unversionedId": "Bash/bash_scripts_010",
               "id": "Bash/bash_scripts_010",
-              "isDocsHomePage": false,
-              "title": "Bash-скрипты, часть 10 практические примеры",
+              "title": "Bash-скрипты, часть 10",
               "description": "практические примеры",
               "source": "@site/docs/Bash/bash_scripts_010.md",
               "sourceDirName": "Bash",
@@ -328,8 +309,7 @@
               "frontMatter": {
                 "created": "2021-08-29T16:46:01 (UTC +03:00)",
                 "source": "https://habr.com/ru/company/ruvds/blog/327530/",
-                "author": "Ivan Yastrebov",
-                "title": "Bash-скрипты, часть 10 практические примеры"
+                "author": "Ivan Yastrebov"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -344,7 +324,6 @@
             {
               "unversionedId": "Bash/bash_scripts_011",
               "id": "Bash/bash_scripts_011",
-              "isDocsHomePage": false,
               "title": "Bash-скрипты, часть 11",
               "description": "expect и автоматизация интерактивных утилит",
               "source": "@site/docs/Bash/bash_scripts_011.md",
@@ -361,14 +340,40 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Bash-скрипты, часть 10 практические примеры",
+                "title": "Bash-скрипты, часть 10",
                 "permalink": "/my-docs/docs/Bash/bash_scripts_010"
+              },
+              "next": {
+                "title": "asdf",
+                "permalink": "/my-docs/docs/asdf/"
+              }
+            },
+            {
+              "unversionedId": "DotFiles/First",
+              "id": "DotFiles/First",
+              "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
+              "description": "---",
+              "source": "@site/docs/DotFiles/First.md",
+              "sourceDirName": "DotFiles",
+              "slug": "/DotFiles/First",
+              "permalink": "/my-docs/docs/DotFiles/First",
+              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/DotFiles/First.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "created": "2021-11-24T19:20:40 (UTC +03:00)",
+                "source": "https://www.atlassian.com/git/tutorials/dotfiles",
+                "author": "Ivan Yastrebov"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "dot_env_files",
+                "permalink": "/my-docs/docs/M_ENV/dot_env_files"
               }
             },
             {
               "unversionedId": "intro",
               "id": "intro",
-              "isDocsHomePage": false,
               "title": "Tutorial Intro",
               "description": "Let's discover Docusaurus in less than 5 minutes.",
               "source": "@site/docs/intro.md",
@@ -389,9 +394,35 @@
               }
             },
             {
+              "unversionedId": "M_ENV/dot_env_files",
+              "id": "M_ENV/dot_env_files",
+              "title": "dot_env_files",
+              "description": "---",
+              "source": "@site/docs/M_ENV/dot_env_files.md",
+              "sourceDirName": "M_ENV",
+              "slug": "/M_ENV/dot_env_files",
+              "permalink": "/my-docs/docs/M_ENV/dot_env_files",
+              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/M_ENV/dot_env_files.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "created": "2021-12-11T21:39:54 (UTC +03:00)",
+                "source": "https://www.twilio.com/blog/environment-variables-python",
+                "author": "Ivan Yastrebov"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "asdf",
+                "permalink": "/my-docs/docs/asdf/"
+              },
+              "next": {
+                "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
+                "permalink": "/my-docs/docs/DotFiles/First"
+              }
+            },
+            {
               "unversionedId": "tutorial-basics/congratulations",
               "id": "tutorial-basics/congratulations",
-              "isDocsHomePage": false,
               "title": "Congratulations!",
               "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
               "source": "@site/docs/tutorial-basics/congratulations.md",
@@ -411,14 +442,13 @@
                 "permalink": "/my-docs/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
+                "title": "Решаем повседневные задачи при помощи командной строки",
+                "permalink": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich"
               }
             },
             {
               "unversionedId": "tutorial-basics/create-a-blog-post",
               "id": "tutorial-basics/create-a-blog-post",
-              "isDocsHomePage": false,
               "title": "Create a Blog Post",
               "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
@@ -445,7 +475,6 @@
             {
               "unversionedId": "tutorial-basics/create-a-document",
               "id": "tutorial-basics/create-a-document",
-              "isDocsHomePage": false,
               "title": "Create a Document",
               "description": "Documents are groups of pages connected through:",
               "source": "@site/docs/tutorial-basics/create-a-document.md",
@@ -472,7 +501,6 @@
             {
               "unversionedId": "tutorial-basics/create-a-page",
               "id": "tutorial-basics/create-a-page",
-              "isDocsHomePage": false,
               "title": "Create a Page",
               "description": "Add Markdown or React files to src/pages to create a standalone page:",
               "source": "@site/docs/tutorial-basics/create-a-page.md",
@@ -499,7 +527,6 @@
             {
               "unversionedId": "tutorial-basics/deploy-your-site",
               "id": "tutorial-basics/deploy-your-site",
-              "isDocsHomePage": false,
               "title": "Deploy your site",
               "description": "Docusaurus is a static-site-generator (also called Jamstack).",
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
@@ -526,7 +553,6 @@
             {
               "unversionedId": "tutorial-basics/markdown-features",
               "id": "tutorial-basics/markdown-features",
-              "isDocsHomePage": false,
               "title": "Markdown Features",
               "description": "Docusaurus supports Markdown and a few additional features.",
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
@@ -551,9 +577,36 @@
               }
             },
             {
+              "unversionedId": "tutorial-basics/sudo-make-me-a-sandwich",
+              "id": "tutorial-basics/sudo-make-me-a-sandwich",
+              "title": "sudo-make-me-a-sandwich",
+              "description": "---",
+              "source": "@site/docs/tutorial-basics/sudo-make-me-a-sandwich.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/sudo-make-me-a-sandwich",
+              "permalink": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich",
+              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/sudo-make-me-a-sandwich.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "created": "2021-12-19T18:31:07 (UTC +03:00)",
+                "source": "https://xakep.ru/2015/03/01/sudo-make-me-a-sandwich/",
+                "author": "Ivan Yastrebov",
+                "sidebar_label": "Решаем повседневные задачи при помощи командной строки"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/my-docs/docs/tutorial-basics/congratulations"
+              },
+              "next": {
+                "title": "Manage Docs Versions",
+                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
+              }
+            },
+            {
               "unversionedId": "tutorial-extras/manage-docs-versions",
               "id": "tutorial-extras/manage-docs-versions",
-              "isDocsHomePage": false,
               "title": "Manage Docs Versions",
               "description": "Docusaurus can manage multiple versions of your docs.",
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
@@ -569,8 +622,38 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Congratulations!",
-                "permalink": "/my-docs/docs/tutorial-basics/congratulations"
+                "title": "Решаем повседневные задачи при помощи командной строки",
+                "permalink": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich"
+              },
+              "next": {
+                "title": "Решаем повседневные задачи при помощи командной строки",
+                "permalink": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/sudo-make-me-a-sandwich",
+              "id": "tutorial-extras/sudo-make-me-a-sandwich",
+              "title": "sudo-make-me-a-sandwich",
+              "description": "$sidebar_label",
+              "source": "@site/docs/tutorial-extras/sudo-make-me-a-sandwich.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/sudo-make-me-a-sandwich",
+              "permalink": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich",
+              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-extras/sudo-make-me-a-sandwich.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "created": "2021-12-19T18:31:07 (UTC +03:00)",
+                "source": "https://xakep.ru/2015/03/01/sudo-make-me-a-sandwich/",
+                "author": "Ivan Yastrebov",
+                "sidebar_label": "Решаем повседневные задачи при помощи командной строки",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
                 "title": "Translate your site",
@@ -580,7 +663,6 @@
             {
               "unversionedId": "tutorial-extras/translate-your-site",
               "id": "tutorial-extras/translate-your-site",
-              "isDocsHomePage": false,
               "title": "Translate your site",
               "description": "Let's translate docs/intro.md to French.",
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
@@ -596,12 +678,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
+                "title": "Решаем повседневные задачи при помощи командной строки",
+                "permalink": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich"
               },
               "next": {
-                "title": "Внешний вид",
-                "permalink": "/my-docs/docs/Кастомизация/Внешний вид"
+                "title": "Bash-скрипты, часть 1",
+                "permalink": "/my-docs/docs/Bash/bash_scripts_001"
               }
             }
           ],
@@ -640,6 +722,11 @@
                   {
                     "type": "doc",
                     "id": "tutorial-basics/congratulations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/sudo-make-me-a-sandwich",
+                    "label": "Решаем повседневные задачи при помощи командной строки"
                   }
                 ]
               },
@@ -655,43 +742,35 @@
                   },
                   {
                     "type": "doc",
+                    "id": "tutorial-extras/sudo-make-me-a-sandwich",
+                    "label": "Решаем повседневные задачи при помощи командной строки"
+                  },
+                  {
+                    "type": "doc",
                     "id": "tutorial-extras/translate-your-site"
                   }
                 ]
               },
               {
                 "type": "category",
-                "label": "Кастомизация",
+                "label": "Tutorial - Bash",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Кастомизация/Внешний вид"
+                    "id": "Bash/bash_scripts_001",
+                    "label": "Bash-скрипты, часть 1"
                   },
                   {
                     "type": "doc",
-                    "id": "Кастомизация/Пользовательские сочетания клавиш"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "Bash",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Bash/bash_scripts_001"
+                    "id": "Bash/bash_scripts_002",
+                    "label": "Bash-скрипты, часть 2"
                   },
                   {
                     "type": "doc",
-                    "id": "Bash/bash_scripts_002"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Bash/bash_scripts_003"
+                    "id": "Bash/bash_scripts_003",
+                    "label": "Bash-скрипты, часть 3 "
                   },
                   {
                     "type": "doc",
@@ -726,9 +805,46 @@
                     "id": "Bash/bash_scripts_011"
                   }
                 ]
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - asdf",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [],
+                "link": {
+                  "type": "doc",
+                  "id": "asdf/asdf"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - dot env",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "M_ENV/dot_env_files"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "DotFiles",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "DotFiles/First"
+                  }
+                ]
               }
             ]
-          }
+          },
+          "mainDocId": "intro",
+          "categoryGeneratedIndices": []
         }
       ]
     }
