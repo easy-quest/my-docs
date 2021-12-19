@@ -1,7 +1,7 @@
 export default {
-  "title": "Docusaurus",
+  "title": "Документация",
   "titleDelimiter": "🦖",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "Hacking are cool",
   "url": "https://easy-quest.github.io",
   "baseUrl": "/my-docs/",
   "onBrokenLinks": "ignore",
@@ -92,7 +92,7 @@ export default {
     "navbar": {
       "title": "My Site",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Quest Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -132,15 +132,15 @@ export default {
           "items": [
             {
               "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "href": "#"
             },
             {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "#"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "#"
             }
           ]
         },
@@ -158,7 +158,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2021 My Project, Inc. EasyQuest."
     },
     "prism": {
       "theme": {

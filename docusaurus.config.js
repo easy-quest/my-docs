@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
-  title: 'Документация',
+  title: 'WayaWay',
   titleDelimiter: '🦖', 
   tagline: 'Hacking are cool',
   url: 'https://easy-quest.github.io',
@@ -106,7 +106,7 @@ module.exports = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'zzz',
         logo: {
           alt: 'Quest Logo',
           src: 'img/logo.svg',
