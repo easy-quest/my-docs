@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
-  title: 'Docusaurus',
+  title: 'Документация',
   titleDelimiter: '🦖', 
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Hacking are cool',
   url: 'https://easy-quest.github.io',
   baseUrl: '/my-docs/',
   onBrokenLinks: 'ignore',
@@ -108,7 +108,7 @@ module.exports = {
       navbar: {
         title: 'My Site',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Quest Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -143,15 +143,15 @@ module.exports = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: '#',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: '#',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: '#',
               },
             ],
           },
@@ -169,7 +169,7 @@ module.exports = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. EasyQuest.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -343,8 +343,8 @@
     },
     "tutorial-extras/sudo-make-me-a-sandwich": {
       "id": "tutorial-extras/sudo-make-me-a-sandwich",
-      "title": "sudo-make-me-a-sandwich",
-      "description": "$sidebar_label",
+      "title": "Решаем повседневные задачи",
+      "description": "Графический интерфейс не убил командную строку. Наоборот, в последнее время она переживает ренессанс. GitHub ломится от программ, перекладывающих на нее задачи, которые привычнее решать при помощи обыкновенных приложений. В этом есть своя логика: как правило, такие утилиты сочиняют для себя, а отказ от GUI значительно ускоряет решение задачи.",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/translate-your-site": {
