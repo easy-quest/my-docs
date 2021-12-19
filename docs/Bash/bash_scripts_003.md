@@ -2,6 +2,8 @@
 created: 2021-08-29T16:38:50 (UTC +03:00)
 source: https://habr.com/ru/company/ruvds/blog/326594/
 author: Ivan Yastrebov
+sidebar_label: 'Bash-скрипты, часть 3 '
+sidebar_position: 3
 ---
 
 Bash-скрипты, часть 3 

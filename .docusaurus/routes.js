@@ -65,7 +65,7 @@ export default [
   },
   {
     path: '/my-docs/docs',
-    component: ComponentCreator('/my-docs/docs','aec'),
+    component: ComponentCreator('/my-docs/docs','65e'),
     routes: [
       {
         path: '/my-docs/docs/asdf/',
@@ -146,14 +146,14 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-docs/docs/ENV/dot_env_files',
-        component: ComponentCreator('/my-docs/docs/ENV/dot_env_files','db8'),
+        path: '/my-docs/docs/intro',
+        component: ComponentCreator('/my-docs/docs/intro','e8d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-docs/docs/intro',
-        component: ComponentCreator('/my-docs/docs/intro','e8d'),
+        path: '/my-docs/docs/M_ENV/dot_env_files',
+        component: ComponentCreator('/my-docs/docs/M_ENV/dot_env_files','188'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -194,8 +194,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich',
+        component: ComponentCreator('/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich','df2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/my-docs/docs/tutorial-extras/manage-docs-versions',
         component: ComponentCreator('/my-docs/docs/tutorial-extras/manage-docs-versions','611'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich',
+        component: ComponentCreator('/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich','eb9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

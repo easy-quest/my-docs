@@ -75,7 +75,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/ccc/Документы/my-docs/sidebars.js",
+          "sidebarPath": "/home/sss/my-docs/sidebars.js",
           "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/"
         },
         "blog": {
@@ -83,7 +83,7 @@ export default {
           "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/home/ccc/Документы/my-docs/src/css/custom.css"
+          "customCss": "/home/sss/my-docs/src/css/custom.css"
         }
       }
     ]

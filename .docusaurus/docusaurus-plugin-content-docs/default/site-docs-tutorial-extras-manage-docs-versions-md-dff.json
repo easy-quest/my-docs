@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Congratulations!",
-    "permalink": "/my-docs/docs/tutorial-basics/congratulations"
+    "title": "Решаем повседневные задачи при помощи командной строки",
+    "permalink": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich"
   },
   "next": {
-    "title": "Translate your site",
-    "permalink": "/my-docs/docs/tutorial-extras/translate-your-site"
+    "title": "Решаем повседневные задачи при помощи командной строки",
+    "permalink": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich"
   }
 }

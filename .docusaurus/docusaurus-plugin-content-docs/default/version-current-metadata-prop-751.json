@@ -55,6 +55,12 @@
             "label": "Congratulations!",
             "href": "/my-docs/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
+          },
+          {
+            "type": "link",
+            "label": "Решаем повседневные задачи при помощи командной строки",
+            "href": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich",
+            "docId": "tutorial-basics/sudo-make-me-a-sandwich"
           }
         ]
       },
@@ -69,6 +75,12 @@
             "label": "Manage Docs Versions",
             "href": "/my-docs/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Решаем повседневные задачи при помощи командной строки",
+            "href": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich",
+            "docId": "tutorial-extras/sudo-make-me-a-sandwich"
           },
           {
             "type": "link",
@@ -98,7 +110,7 @@
           },
           {
             "type": "link",
-            "label": "Bash-скрипты, часть 3",
+            "label": "Bash-скрипты, часть 3 ",
             "href": "/my-docs/docs/Bash/bash_scripts_003",
             "docId": "Bash/bash_scripts_003"
           },
@@ -169,8 +181,8 @@
           {
             "type": "link",
             "label": "dot_env_files",
-            "href": "/my-docs/docs/ENV/dot_env_files",
-            "docId": "ENV/dot_env_files"
+            "href": "/my-docs/docs/M_ENV/dot_env_files",
+            "docId": "M_ENV/dot_env_files"
           }
         ]
       },
@@ -269,16 +281,16 @@
       "description": "---",
       "sidebar": "tutorialSidebar"
     },
-    "ENV/dot_env_files": {
-      "id": "ENV/dot_env_files",
-      "title": "dot_env_files",
-      "description": "---",
-      "sidebar": "tutorialSidebar"
-    },
     "intro": {
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "M_ENV/dot_env_files": {
+      "id": "M_ENV/dot_env_files",
+      "title": "dot_env_files",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {
@@ -317,10 +329,22 @@
       "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },
+    "tutorial-basics/sudo-make-me-a-sandwich": {
+      "id": "tutorial-basics/sudo-make-me-a-sandwich",
+      "title": "sudo-make-me-a-sandwich",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
     "tutorial-extras/manage-docs-versions": {
       "id": "tutorial-extras/manage-docs-versions",
       "title": "Manage Docs Versions",
       "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/sudo-make-me-a-sandwich": {
+      "id": "tutorial-extras/sudo-make-me-a-sandwich",
+      "title": "sudo-make-me-a-sandwich",
+      "description": "$sidebar_label",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/translate-your-site": {

@@ -76,13 +76,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ENV/dot_env_files",
-              "path": "/my-docs/docs/ENV/dot_env_files",
+              "id": "intro",
+              "path": "/my-docs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/my-docs/docs/intro",
+              "id": "M_ENV/dot_env_files",
+              "path": "/my-docs/docs/M_ENV/dot_env_files",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -116,8 +116,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial-basics/sudo-make-me-a-sandwich",
+              "path": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-extras/manage-docs-versions",
               "path": "/my-docs/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/sudo-make-me-a-sandwich",
+              "path": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich",
               "sidebar": "tutorialSidebar"
             },
             {
