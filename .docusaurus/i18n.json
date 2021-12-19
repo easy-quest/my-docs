@@ -1,12 +1,12 @@
 {
-  "defaultLocale": "en",
+  "defaultLocale": "ru",
   "locales": [
-    "en"
+    "ru"
   ],
-  "currentLocale": "en",
+  "currentLocale": "ru",
   "localeConfigs": {
-    "en": {
-      "label": "English",
+    "ru": {
+      "label": "Russian",
       "direction": "ltr"
     }
   }
