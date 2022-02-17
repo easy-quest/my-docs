@@ -1,5 +1,5 @@
 export default {
-  "title": "Документация",
+  "title": "WayaWay",
   "titleDelimiter": "🦖",
   "tagline": "Hacking are cool",
   "url": "https://easy-quest.github.io",
@@ -75,7 +75,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/sss/my-docs/sidebars.js",
+          "sidebarPath": "/home/zzz/Рабочий стол/my-docs/sidebars.js",
           "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/"
         },
         "blog": {
@@ -83,14 +83,14 @@ export default {
           "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/home/sss/my-docs/src/css/custom.css"
+          "customCss": "/home/zzz/Рабочий стол/my-docs/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "zzz",
       "logo": {
         "alt": "Quest Logo",
         "src": "img/logo.svg"
@@ -158,7 +158,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 My Project, Inc. EasyQuest."
+      "copyright": "Copyright © 2022 My Project, Inc. EasyQuest."
     },
     "prism": {
       "theme": {

@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Решаем повседневные задачи при помощи командной строки",
-    "permalink": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich"
+    "title": "Manage Docs Versions",
+    "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
   },
   "next": {
     "title": "Bash-скрипты, часть 1",

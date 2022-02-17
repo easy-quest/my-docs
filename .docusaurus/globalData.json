@@ -86,6 +86,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tor-project/tor_projects",
+              "path": "/my-docs/docs/tor-project/tor_projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tutorial-basics/congratulations",
               "path": "/my-docs/docs/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
@@ -116,18 +121,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/sudo-make-me-a-sandwich",
-              "path": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorial-extras/manage-docs-versions",
               "path": "/my-docs/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/sudo-make-me-a-sandwich",
-              "path": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich",
               "sidebar": "tutorialSidebar"
             },
             {

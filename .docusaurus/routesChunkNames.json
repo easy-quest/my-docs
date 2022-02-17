@@ -103,7 +103,7 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/my-docs/docs-65e": {
+  "/my-docs/docs-c13": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -167,6 +167,10 @@
     "component": "17896441",
     "content": "b058d5fe"
   },
+  "/my-docs/docs/tor-project/tor_projects-1ab": {
+    "component": "17896441",
+    "content": "a5c7ca62"
+  },
   "/my-docs/docs/tutorial-basics/congratulations-af7": {
     "component": "17896441",
     "content": "822bd8ab"
@@ -191,17 +195,9 @@
     "component": "17896441",
     "content": "18c41134"
   },
-  "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich-df2": {
-    "component": "17896441",
-    "content": "52e82847"
-  },
   "/my-docs/docs/tutorial-extras/manage-docs-versions-611": {
     "component": "17896441",
     "content": "dff1c289"
-  },
-  "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich-eb9": {
-    "component": "17896441",
-    "content": "5db84a57"
   },
   "/my-docs/docs/tutorial-extras/translate-your-site-fa3": {
     "component": "17896441",

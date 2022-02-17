@@ -55,12 +55,6 @@
             "label": "Congratulations!",
             "href": "/my-docs/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
-          },
-          {
-            "type": "link",
-            "label": "Решаем повседневные задачи при помощи командной строки",
-            "href": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich",
-            "docId": "tutorial-basics/sudo-make-me-a-sandwich"
           }
         ]
       },
@@ -75,12 +69,6 @@
             "label": "Manage Docs Versions",
             "href": "/my-docs/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
-          },
-          {
-            "type": "link",
-            "label": "Решаем повседневные задачи при помощи командной строки",
-            "href": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich",
-            "docId": "tutorial-extras/sudo-make-me-a-sandwich"
           },
           {
             "type": "link",
@@ -188,6 +176,20 @@
       },
       {
         "type": "category",
+        "label": "Tor ",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Tor-project 1",
+            "href": "/my-docs/docs/tor-project/tor_projects",
+            "docId": "tor-project/tor_projects"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "DotFiles",
         "collapsible": true,
         "collapsed": true,
@@ -218,7 +220,7 @@
     "Bash/bash_scripts_002": {
       "id": "Bash/bash_scripts_002",
       "title": "Bash-скрипты, часть 2",
-      "description": "циклы",
+      "description": "Циклы for",
       "sidebar": "tutorialSidebar"
     },
     "Bash/bash_scripts_003": {
@@ -293,6 +295,12 @@
       "description": "---",
       "sidebar": "tutorialSidebar"
     },
+    "tor-project/tor_projects": {
+      "id": "tor-project/tor_projects",
+      "title": "Tor",
+      "description": "Tor - это бесплатное программное обеспечение, которое позволяет пользователю сохранять полную анонимность в Интернете. Его можно использовать, чтобы веб-сайты и приложения не отслеживали ваше местоположение или не пытались идентифицировать вас. Это достигается путем маршрутизации ваших сетевых данных через пул серверов по всему миру, а также удаления идентифицирующей информации из заголовков пакетов.",
+      "sidebar": "tutorialSidebar"
+    },
     "tutorial-basics/congratulations": {
       "id": "tutorial-basics/congratulations",
       "title": "Congratulations!",
@@ -329,22 +337,10 @@
       "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/sudo-make-me-a-sandwich": {
-      "id": "tutorial-basics/sudo-make-me-a-sandwich",
-      "title": "sudo-make-me-a-sandwich",
-      "description": "---",
-      "sidebar": "tutorialSidebar"
-    },
     "tutorial-extras/manage-docs-versions": {
       "id": "tutorial-extras/manage-docs-versions",
       "title": "Manage Docs Versions",
       "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/sudo-make-me-a-sandwich": {
-      "id": "tutorial-extras/sudo-make-me-a-sandwich",
-      "title": "Решаем повседневные задачи",
-      "description": "Графический интерфейс не убил командную строку. Наоборот, в последнее время она переживает ренессанс. GitHub ломится от программ, перекладывающих на нее задачи, которые привычнее решать при помощи обыкновенных приложений. В этом есть своя логика: как правило, такие утилиты сочиняют для себя, а отказ от GUI значительно ускоряет решение задачи.",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/translate-your-site": {

@@ -1,130 +1,173 @@
 ---
-created: 2021-08-29T16:37:45 (UTC +03:00)
+created: 2022-02-17T06:35:04 (UTC +03:00)
 source: https://habr.com/ru/company/ruvds/blog/326594/
 author: Ivan Yastrebov
 sidebar_label: 'Tor-project 1'
 sidebar_position: 1
 ---
-# Setup tor proxy on Arch Linux
+# Tor
 
-[Copied from this article](https://linuxconfig.org/install-tor-proxy-on-ubuntu-20-04-linux).
+[Tor](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/how-to-install-tor-browser-on-ubuntu-20-04-lts-focal-fossa-linux) - это бесплатное программное обеспечение, которое позволяет пользователю сохранять полную анонимность в Интернете. Его можно использовать, чтобы веб-сайты и приложения не отслеживали ваше местоположение или не пытались идентифицировать вас. Это достигается путем маршрутизации ваших сетевых данных через пул серверов по всему миру, а также удаления идентифицирующей информации из заголовков пакетов.
 
-## Installation
+Он часто используется, чтобы избежать региональных блокировок на таких сайтах, как [Netflix](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/watch-netflix-on-ubuntu-20-04-focal-fossa-linux-desktop) или YouTube. Некоторым пользователям это нравится, потому что это мешает компаниям, отслеживающим рекламу, создавать профиль на вас на основе ваших привычек просмотра и показа персонализированной рекламы. Тем не менее, другие просто немного параноики и ценят уверенность в том, что никто не сможет шпионить за их интернет-активностью.
 
-### 1.Install `tor`
+Вы можете использовать Tor в [Ubuntu 20.04](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/ubuntu-20-04-guide) Focal Fossa, установив клиент Tor. Мы покажем вам, как его настроить в этом руководстве, которое включает настройку браузера и позволяет запускать все ваши команды оболочки через сеть Tor.
 
-```bash
-sudo pacman -S tor
-## nyx предоставляет монитор состояния терминала для определения использования полосы пропускания, сведений о подключении и многого другого.
-sudo pacman -S nyx
-## torsocks безопасная настройка приложений
-sudo pacman -S torsocks
-```
+**В этом уроке вы узнаете:**
 
-#### 3.Запустите службу tor
+- [Как установить Tor на Ubuntu 20.04](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/how-to-install-tor-browser-on-ubuntu-20-04-lts-focal-fossa-linux)
+- Проверьте свое сетевое подключение через Tor
+- Как временно или постоянно тонизировать свою оболочку
+- Включите и используйте порт управления Tor
+- Настройте веб - браузер для использования сети Tor
 
-```bash
-sudo systemctl enable --now tor.service
-```
+[![Как использовать сеть Tor для просмотра онлайн на рабочем столе/сервере Ubuntu 20.04](https://linuxconfig.org/wp-content/uploads/2020/04/08-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png)](https://linuxconfig.org/wp-content/uploads/2020/04/08-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png "Как использовать сеть Tor для просмотра онлайн на рабочем столе/сервере Ubuntu 20.04")
 
-#### 1. By default, Tor runs on port 9050. Check it
+Как использовать сеть Tor для просмотра онлайн на рабочем столе/сервере Ubuntu 20.04
 
-```bash
-systemctl status tor.service
-ss -nlt
-```
+Требования к программному обеспечению и Соглашения о командной строке Linux
 
-### Проверьте Сетевое Подключение Tor
+Категория
 
-#### 1.Check your current public IP address
+Требования, Соглашения или Используемая версия программного обеспечения
 
-```bash
-wget -qO - https://api.ipify.org; echo
-```
+Система
 
-#### 1.Torify the command through the `torsocks`
+[Установлена Ubuntu 20.04](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/how-to-install-ubuntu-20-04-focal-fossa-desktop) или [обновлена Ubuntu 20.04 Фокальная ямка](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/how-to-upgrade-ubuntu-to-20-04-lts-focal-fossa)
 
-```bash
-torsocks wget -qO - https://api.ipify.org; echo
-## должен отображаться другой ip-адрес
-```
+Программное обеспечение
 
-### Torify your Shell
+Тор
 
-1. #### torify the shell, issue
+Другое
 
-```bash
-source torsocks on
-wget -qO - https://api.ipify.org; echo
-## должен отображаться ip-адрес узла tor
-```
+Привилегированный доступ к вашей системе Linux от имени root или с помощью `sudo`команды.
 
-1. #### To turn on `torsocks` permanently for all new shells add it to `.bashrc`
+Конвенции
 
-```bash
-echo ". torsocks on" >> ~/.bashrc
-```
+**#** – требует, чтобы данные [команды linux](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/linux-commands) выполнялись с правами суперпользователя либо непосредственно как пользователь root, либо с помощью `sudo`команды  
+**$** – требует, чтобы данные [команды linux](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/linux-commands) выполнялись как обычный непривилегированный пользователь
 
-1. #### If you want to turn `torsocks` off, try
+## Установите Tor на Ubuntu 20.04
 
-```bash
-source torsocks off
-```
+1. Во-первых, нам нужно установить Tor в нашей системе. [Откройте терминал](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/shortcuts-to-access-terminal-on-ubuntu-20-04-focal-fossa) и введите следующую команду для его установки:
 
-### Включите **control port** Tor
+    $ sudo apt установить tor
 
-1. #### Add to your `/etc/tor/torrc`
+2. По умолчанию Tor работает на порту 9050. Вы можете подтвердить, что Tor запущен и работает правильно, используя `ss`команду в терминале:
 
-```bash
-ControlPort 9051
-```
+    Еще один быстрый способ проверить, установлен ли Tor, и посмотреть, какая версия у вас запущена, с помощью этой команды:
 
-1. #### Set a Tor Control password
+    $ tor --версия Версия Tor 0.4.2.7.
 
-Преобразуйте свой пароль из обычного текста в хэш
+## Проверка подключения к сети Tor
 
-```bash
-set +o history # unset bash history
-tor --hash-password your_password
-set -o history # set bash history
-```
+1. Давайте посмотрим Tor в действии и убедимся, что он работает так, как должен. Мы сделаем это, получив внешний IP-адрес из сети Tor. Во-первых, проверьте, каков ваш текущий IP-адрес:
 
-1. #### Добавьте этот хэш в свой`/etc/tor/torrc`
+    $ wget -qO - <https://api.ipify.org>; эхо 147.232.135.100
 
-```bash
-HashedControlPassword your_hash
-```
+2. Затем мы выполним ту же команду, но предварим ее `torsocks`. Таким образом, вместо этого команда выполняется через наш клиент Tor.
 
-1. #### Restart `tor`
+    $ торсы wget -qO - <https://api.ipify.org>; эхо 162.247.74.200
 
-```bash
-sudo systemctl restart tor.service
-```
+    [![Посмотрите, как меняется наш IP-адрес при использовании префикса команды torsocks](https://linuxconfig.org/wp-content/uploads/2020/04/01-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png)](https://linuxconfig.org/wp-content/uploads/2020/04/01-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png "Посмотрите, как меняется наш IP-адрес при использовании префикса команды torsocks")
 
-1. #### Check the status of port 9051
+    Посмотрите, как меняется наш IP-адрес при использовании префикса команды torsocks
 
-```bash
-ss -nlt
-```
+Теперь вы должны увидеть другой IP-адрес. Это означает, что наш запрос был успешно перенаправлен через сеть Tor.
 
-### Test your `tor` control port
+## Как “тонизировать” свою оболочку
 
-1. #### Install gnu-netcat
+1. Очевидно, что предварение каждой команды, связанной с сетью`torsocks`, быстро устареет. Если вы хотите использовать сеть Tor по умолчанию для команд оболочки, вы можете настроить свою оболочку с помощью этой команды:
 
-```bash
-sudo pacman -S gnu-netcat
-```
+    $ исходные торсы на Активирован режим Tor. Каждая команда будет торифицирована для этой оболочки.
 
-1. #### To test your `tor` use
+2. Чтобы убедиться, что это сработало, попробуйте получить свой IP-адрес без использования префикса `torsocks`команды:
 
-```bash
-echo -e 'PROTOCOLINFO\r\n' | nc 127.0.0.1:9051
-```
+    $ wget -qO - <https://api.ipify.org>; эхо 162.247.74.200
 
-#### 1.Чтобы запросить новый канал (IP-адрес)  Tor, используйте
+    [![Включите режим tor, чтобы очистить оболочку](https://linuxconfig.org/wp-content/uploads/2020/04/02-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png)](https://linuxconfig.org/wp-content/uploads/2020/04/02-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png "Включите режим tor, чтобы очистить оболочку")
 
-```bash
-set +o history
-echo -e 'AUTHENTICATE "my-tor-password"\r\nsignal NEWNYM\r\nQUIT' | nc 127.0.0.1 9051
-set -o history
-```
+    Включите режим tor, чтобы очистить оболочку
+
+3. Торифицированная оболочка сохранится только для текущего сеанса. Если вы откроете новые терминалы или перезагрузите компьютер, оболочка по умолчанию вернется к обычному подключению. Чтобы `torsocks`постоянно включаться для всех новых сеансов оболочки и после перезагрузки, используйте эту команду:
+
+    $ echo ". торсы включены" >>> ~/.bashrc
+
+4. Если вам нужно снова выключить `torsocks`режим, просто введите:
+
+    $ исходные торсы отключены Режим Tor отключен. Команда больше не будет проходить через Tor.
+
+## Включите порт управления Tor
+
+Чтобы взаимодействовать с установкой Tor в нашей системе, нам необходимо включить порт управления Tor. После включения Tor будет принимать подключения к порту управления и позволит вам управлять процессом Tor с помощью различных команд.
+
+1. Для начала мы защитим соединение Tor паролем с помощью следующей команды. Мы используем `my-tor-password`в этом примере.
+
+    $ torpass=$(tor --хэш-пароль "мой-tor-пароль")
+
+2. Затем используйте эту команду, чтобы включить порт управления Tor и вставить наш ранее хэшированный пароль:
+
+    $ printf "HashedControlPassword $torpass\\nControlPort 9051\\n" | sudo tee -a /etc/tor/torrc
+
+    [![Создание хэша пароля tor](https://linuxconfig.org/wp-content/uploads/2020/04/03-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png)](https://linuxconfig.org/wp-content/uploads/2020/04/03-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png "Создание хэша пароля tor")
+
+    Создание хэша пароля tor
+
+3. Вы можете проверить содержимое файла `/etc/tor/torrc`конфигурации, чтобы убедиться, что параметры хэш-пароля были правильно включены.
+
+    $ хвост -2 /etc/tor/torrc HashedControlPassword 16:5D13CF3C7511D9FC60161179F8FFA1083C99601A5257CDC622E161839B Порт управления 9051
+
+4. Перезапустите Tor, чтобы применить изменения:
+
+    $ sudo systemctl перезапуск tor
+
+5. Теперь вы должны видеть службу Tor, работающую на обоих портах `9050`и`9051`:
+
+## Подключение к порту управления Tor
+
+1. Теперь мы можем подключиться к порту управления Tor для [связи с Tor и выдачи команд](https://gitweb.torproject.org/torspec.git/tree/control-spec.txt#n415). Например, здесь мы используем `telnet`команду для запроса новой схемы Tor и очистки кэша:
+
+    В строке 5 мы ввели `AUTHENTICATE`команду и наш пароль Tor. В строке 7 и строке 9 мы попросили Tor создать новую схему и очистить кэш. Очевидно, что вам нужно знать несколько команд, чтобы извлечь большую пользу из порта управления, поэтому мы связались со списком команд выше.
+
+    [![Подключение к порту управления Tor](https://linuxconfig.org/wp-content/uploads/2020/04/04-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png)](https://linuxconfig.org/wp-content/uploads/2020/04/04-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png "Подключение к порту управления Tor")
+
+    Подключение к порту управления Tor
+
+2. Связь с управляющим портом Tor также может быть выполнена по сценарию оболочки. Рассмотрим следующий пример, в котором будет запрошен новый канал (IP-адрес) от Tor:
+
+    Волшебство происходит в строке 5, где несколько команд Tor соединены вместе. `wget`Команды показывают, как изменился IP-адрес нашего соединения после запроса на очистку канала. Этот сценарий может быть выполнен в любое время, когда вам потребуется получить новую схему.
+
+## Настройте веб - браузер для использования сети Tor
+
+Чтобы анонимно просматривать веб-страницы через Tor, нам нужно настроить наш веб-браузер для маршрутизации трафика через наш локальный хост Tor. Вот как вы могли бы настроить это в веб-браузере Ubuntu по умолчанию Firefox. Инструкции для других веб-браузеров будут очень похожи.
+
+___
+
+___
+
+1. Откройте панель настроек из меню или набрав `about:preferences`в адресной строке. Прокрутите вниз до конца, чтобы найти “Настройки сети”, и нажмите кнопку “Настройки”.
+
+    [![Откройте меню Настроек сети в своем веб - браузере](https://linuxconfig.org/wp-content/uploads/2020/04/05-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png)](https://linuxconfig.org/wp-content/uploads/2020/04/05-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png "Откройте меню Настроек сети в своем веб - браузере")
+
+    Откройте меню Настроек сети в своем веб - браузере
+
+2. В этом меню выберите “Настройка прокси вручную” и введите `localhost`в поле “Узел SOCKS”. Для порта введите `9050`. Смотрите скриншот ниже, как должен выглядеть ваш.
+
+    [![Настройка узла SOCKS в настройках сети](https://linuxconfig.org/wp-content/uploads/2020/04/06-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png)](https://linuxconfig.org/wp-content/uploads/2020/04/06-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png "Настройка узла SOCKS в настройках сети")
+
+    Настройка узла SOCKS в настройках сети
+
+3. Когда вы закончите вводить эти настройки, нажмите кнопку ОК. Вы можете подтвердить, что изменения вступили в силу, перейдя на веб-сайт, такой как [IP Chicken](https://ipchicken.com/), чтобы убедиться, что вы подключены к сети Tor. Это рекомендуемый шаг в любое время, когда вы хотите быть абсолютно уверены, что просматриваете анонимно.
+
+    [![Мы просматриваем анонимно, отсюда и новый IP-адрес из сети Tor](https://linuxconfig.org/wp-content/uploads/2020/04/07-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png)](https://linuxconfig.org/wp-content/uploads/2020/04/07-install-tor-proxy-on-ubuntu-20-04-focal-fossa-linux.png "Мы просматриваем анонимно, отсюда и новый IP-адрес из сети Tor")
+
+    Мы просматриваем анонимно, отсюда и новый IP-адрес из сети Tor
+
+## Вывод
+
+Использование Tor-отличный способ сохранить анонимность в Интернете. Это абсолютно бесплатно и занимает всего несколько минут для настройки. Вы можете осуществлять большой контроль над своим подключением Tor, если потратите немного времени, чтобы понять, как работает порт управления, как мы показали в этой статье.
+
+Используя то, что вы узнали из этого руководства, вы можете убедиться, что вся ваша исходящая активность в Интернете маскируется, независимо от того, используете ли вы веб-браузер или выполняете команды с терминала. Конечно, другие приложения также могут быть настроены на использование Tor, вам просто нужно настроить их для подключения к вашему локальному хосту SOCKS.
+
+`###### tags: [tor]`

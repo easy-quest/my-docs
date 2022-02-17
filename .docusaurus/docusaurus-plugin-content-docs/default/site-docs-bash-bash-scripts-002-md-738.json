@@ -2,7 +2,7 @@
   "unversionedId": "Bash/bash_scripts_002",
   "id": "Bash/bash_scripts_002",
   "title": "Bash-скрипты, часть 2",
-  "description": "циклы",
+  "description": "Циклы for",
   "source": "@site/docs/Bash/bash_scripts_002.md",
   "sourceDirName": "Bash",
   "slug": "/Bash/bash_scripts_002",

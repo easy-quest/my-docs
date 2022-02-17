@@ -20,7 +20,7 @@
     "permalink": "/my-docs/docs/tutorial-basics/deploy-your-site"
   },
   "next": {
-    "title": "Решаем повседневные задачи при помощи командной строки",
-    "permalink": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich"
+    "title": "Manage Docs Versions",
+    "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
   }
 }

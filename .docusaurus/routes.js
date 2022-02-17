@@ -65,7 +65,7 @@ export default [
   },
   {
     path: '/my-docs/docs',
-    component: ComponentCreator('/my-docs/docs','65e'),
+    component: ComponentCreator('/my-docs/docs','c13'),
     routes: [
       {
         path: '/my-docs/docs/asdf/',
@@ -158,6 +158,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/my-docs/docs/tor-project/tor_projects',
+        component: ComponentCreator('/my-docs/docs/tor-project/tor_projects','1ab'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/my-docs/docs/tutorial-basics/congratulations',
         component: ComponentCreator('/my-docs/docs/tutorial-basics/congratulations','af7'),
         exact: true,
@@ -194,20 +200,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich',
-        component: ComponentCreator('/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich','df2'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
         path: '/my-docs/docs/tutorial-extras/manage-docs-versions',
         component: ComponentCreator('/my-docs/docs/tutorial-extras/manage-docs-versions','611'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich',
-        component: ComponentCreator('/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich','eb9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
