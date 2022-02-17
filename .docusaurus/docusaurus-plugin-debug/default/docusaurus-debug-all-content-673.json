@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/sss/my-docs/sidebars.js",
-          "contentPath": "/home/sss/my-docs/docs",
-          "contentPathLocalized": "/home/sss/my-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/zzz/Рабочий стол/my-docs/sidebars.js",
+          "contentPath": "/home/zzz/Рабочий стол/my-docs/docs",
+          "contentPathLocalized": "/home/zzz/Рабочий стол/my-docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "asdf/asdf",
@@ -79,7 +79,7 @@
               "unversionedId": "Bash/bash_scripts_002",
               "id": "Bash/bash_scripts_002",
               "title": "Bash-скрипты, часть 2",
-              "description": "циклы",
+              "description": "Циклы for",
               "source": "@site/docs/Bash/bash_scripts_002.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_002",
@@ -367,8 +367,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "dot_env_files",
-                "permalink": "/my-docs/docs/M_ENV/dot_env_files"
+                "title": "Tor-project 1",
+                "permalink": "/my-docs/docs/tor-project/tor_projects"
               }
             },
             {
@@ -416,6 +416,36 @@
                 "permalink": "/my-docs/docs/asdf/"
               },
               "next": {
+                "title": "Tor-project 1",
+                "permalink": "/my-docs/docs/tor-project/tor_projects"
+              }
+            },
+            {
+              "unversionedId": "tor-project/tor_projects",
+              "id": "tor-project/tor_projects",
+              "title": "Tor",
+              "description": "Tor - это бесплатное программное обеспечение, которое позволяет пользователю сохранять полную анонимность в Интернете. Его можно использовать, чтобы веб-сайты и приложения не отслеживали ваше местоположение или не пытались идентифицировать вас. Это достигается путем маршрутизации ваших сетевых данных через пул серверов по всему миру, а также удаления идентифицирующей информации из заголовков пакетов.",
+              "source": "@site/docs/tor-project/tor_projects.md",
+              "sourceDirName": "tor-project",
+              "slug": "/tor-project/tor_projects",
+              "permalink": "/my-docs/docs/tor-project/tor_projects",
+              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tor-project/tor_projects.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "created": "2022-02-17T06:35:04 (UTC +03:00)",
+                "source": "https://habr.com/ru/company/ruvds/blog/326594/",
+                "author": "Ivan Yastrebov",
+                "sidebar_label": "Tor-project 1",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "dot_env_files",
+                "permalink": "/my-docs/docs/M_ENV/dot_env_files"
+              },
+              "next": {
                 "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
                 "permalink": "/my-docs/docs/DotFiles/First"
               }
@@ -442,8 +472,8 @@
                 "permalink": "/my-docs/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
-                "title": "Решаем повседневные задачи при помощи командной строки",
-                "permalink": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich"
+                "title": "Manage Docs Versions",
+                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
               }
             },
             {
@@ -577,34 +607,6 @@
               }
             },
             {
-              "unversionedId": "tutorial-basics/sudo-make-me-a-sandwich",
-              "id": "tutorial-basics/sudo-make-me-a-sandwich",
-              "title": "sudo-make-me-a-sandwich",
-              "description": "---",
-              "source": "@site/docs/tutorial-basics/sudo-make-me-a-sandwich.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/sudo-make-me-a-sandwich",
-              "permalink": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich",
-              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/sudo-make-me-a-sandwich.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "created": "2021-12-19T18:31:07 (UTC +03:00)",
-                "source": "https://xakep.ru/2015/03/01/sudo-make-me-a-sandwich/",
-                "author": "Ivan Yastrebov",
-                "sidebar_label": "Решаем повседневные задачи при помощи командной строки"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/my-docs/docs/tutorial-basics/congratulations"
-              },
-              "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
-              }
-            },
-            {
               "unversionedId": "tutorial-extras/manage-docs-versions",
               "id": "tutorial-extras/manage-docs-versions",
               "title": "Manage Docs Versions",
@@ -622,38 +624,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Решаем повседневные задачи при помощи командной строки",
-                "permalink": "/my-docs/docs/tutorial-basics/sudo-make-me-a-sandwich"
-              },
-              "next": {
-                "title": "Решаем повседневные задачи при помощи командной строки",
-                "permalink": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/sudo-make-me-a-sandwich",
-              "id": "tutorial-extras/sudo-make-me-a-sandwich",
-              "title": "sudo-make-me-a-sandwich",
-              "description": "$sidebar_label",
-              "source": "@site/docs/tutorial-extras/sudo-make-me-a-sandwich.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/sudo-make-me-a-sandwich",
-              "permalink": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich",
-              "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-extras/sudo-make-me-a-sandwich.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "created": "2021-12-19T18:31:07 (UTC +03:00)",
-                "source": "https://xakep.ru/2015/03/01/sudo-make-me-a-sandwich/",
-                "author": "Ivan Yastrebov",
-                "sidebar_label": "Решаем повседневные задачи при помощи командной строки",
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
+                "title": "Congratulations!",
+                "permalink": "/my-docs/docs/tutorial-basics/congratulations"
               },
               "next": {
                 "title": "Translate your site",
@@ -678,8 +650,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Решаем повседневные задачи при помощи командной строки",
-                "permalink": "/my-docs/docs/tutorial-extras/sudo-make-me-a-sandwich"
+                "title": "Manage Docs Versions",
+                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
                 "title": "Bash-скрипты, часть 1",
@@ -722,11 +694,6 @@
                   {
                     "type": "doc",
                     "id": "tutorial-basics/congratulations"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/sudo-make-me-a-sandwich",
-                    "label": "Решаем повседневные задачи при помощи командной строки"
                   }
                 ]
               },
@@ -739,11 +706,6 @@
                   {
                     "type": "doc",
                     "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/sudo-make-me-a-sandwich",
-                    "label": "Решаем повседневные задачи при помощи командной строки"
                   },
                   {
                     "type": "doc",
@@ -826,6 +788,19 @@
                   {
                     "type": "doc",
                     "id": "M_ENV/dot_env_files"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Tor ",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tor-project/tor_projects",
+                    "label": "Tor-project 1"
                   }
                 ]
               },
