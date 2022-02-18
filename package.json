@@ -1,6 +1,6 @@
 {
   "name": "my-site",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -15,11 +15,11 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.13",
-    "@docusaurus/plugin-content-docs": "^2.0.0-beta.13",
-    "@docusaurus/plugin-pwa": "^2.0.0-beta.13",
-    "@docusaurus/preset-classic": "^2.0.0-beta.13",
-    "@docusaurus/theme-live-codeblock": "^2.0.0-beta.13",
+    "@docusaurus/core": "^2.0.0-beta.15",
+    "@docusaurus/plugin-content-docs": "^2.0.0-beta.15",
+    "@docusaurus/plugin-pwa": "^2.0.0-beta.15",
+    "@docusaurus/preset-classic": "^2.0.0-beta.15",
+    "@docusaurus/theme-live-codeblock": "^2.0.0-beta.15",
     "@mdx-js/react": "^1.6.21",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
@@ -30,7 +30,7 @@
     "url-loader": "^4.1.1"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.0.0-beta.13",
+    "@docusaurus/module-type-aliases": "^2.0.0-beta.15",
     "@tsconfig/docusaurus": "^1.0.4",
     "typescript": "^4.3.5"
   },

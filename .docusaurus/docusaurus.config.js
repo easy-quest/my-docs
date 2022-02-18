@@ -1,4 +1,12 @@
 export default {
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "ru"
+    ],
+    "localeConfigs": {}
+  },
   "title": "WayaWay",
   "titleDelimiter": "🦖",
   "tagline": "Hacking are cool",
@@ -75,7 +83,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/zzz/Рабочий стол/my-docs/sidebars.js",
+          "sidebarPath": "/workspace/my-docs/sidebars.js",
           "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/"
         },
         "blog": {
@@ -83,7 +91,7 @@ export default {
           "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/home/zzz/Рабочий стол/my-docs/src/css/custom.css"
+          "customCss": "/workspace/my-docs/src/css/custom.css"
         }
       }
     ]
@@ -376,13 +384,6 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
-  "i18n": {
-    "defaultLocale": "en",
-    "locales": [
-      "en"
-    ],
-    "localeConfigs": {}
-  },
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"

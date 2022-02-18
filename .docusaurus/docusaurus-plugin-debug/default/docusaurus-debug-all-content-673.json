@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/zzz/Рабочий стол/my-docs/sidebars.js",
-          "contentPath": "/home/zzz/Рабочий стол/my-docs/docs",
-          "contentPathLocalized": "/home/zzz/Рабочий стол/my-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/workspace/my-docs/sidebars.js",
+          "contentPath": "/workspace/my-docs/docs",
+          "contentPathLocalized": "/workspace/my-docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "asdf/asdf",
