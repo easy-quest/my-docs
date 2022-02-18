@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## Начиная
 
-Начать работу **creating a new site**.
+Начать работу **Создание нового сайта**.
 
 Или **try Docusaurus immediately** с участиемастием **[docusaurus.new](https://docusaurus.new)**.
 
