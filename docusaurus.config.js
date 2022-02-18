@@ -91,13 +91,13 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/easy-quest/my-docs/edit/main/website/',
+          editUrl: 'https://github.com/easy-quest/my-docs/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/easy-quest/my-docs/edit/main/website/blog/',
+            'https://github.com/easy-quest/my-docs/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -137,7 +137,7 @@ module.exports = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Документация',
             items: [
               {
                 label: 'Tutorial',
@@ -146,7 +146,7 @@ module.exports = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Сообщество',
             items: [
               {
                 label: 'Stack Overflow',
