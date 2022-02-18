@@ -2,14 +2,13 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target 'all'.  Stop.
  
 # GNU Make 4.3
- 
 # Built for x86_64-pc-linux-gnu
 # Copyright (C) 1988-2020 Free Software Foundation, Inc.
 # License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Feb 18 02:54:45 2022
+# Make data base, printed on Fri Feb 18 23:37:37 2022
 
 # Variables
 
@@ -22,36 +21,33 @@ LC_ALL = C
 # environment
 NO_AT_BRIDGE = 1
 # environment
+GIT_USER = easy-quest
+# environment
 GTK_RC_FILES = /etc/gtk/gtkrc:/home/zzz/.gtkrc:/home/zzz/.config/gtkrc
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-068487a8-6f9f-431a-94ed-e5a8e5e5d442.sock
+STARSHIP_SESSION_KEY = 9091498481217558
 # environment
- 
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-987cebe6-689f-441e-a556-c3cce81737b5.sock
+# environment
 LC_NAME = ru_RU.UTF-8
- 
 # environment
- 
 LC_NUMERIC = ru_RU.UTF-8
- 
 # environment
- 
-VSCODE_CWD = /home/zzz
- 
+VSCODE_CWD = /home/zzz/Рабочий стол/my-docs
 # environment
- 
+WINDOWID = 56623106
+# environment
+DIRENV_WATCHES = eJxszkFOhTAQANCrmK7xT6dQSti7NHFvXLTTIZDAbwL1qxgXuvEaHkF3GpN_huFG7g0XeHm3z-rG5161Cvo0MazrCvIhn_Il5-1dvuXnYnvd3uQsvzA9XcZECxz4eJpJFeo6xTxMrFqsK2uwtqUt1NXjsORFtXm-55dihz-MifwIS-9nhjjMfDyBH8f0AAHRBM1MwblKR6oa48tokFFrFx1Z7KzTteli6QkphNJ3jkLTOG40V91uqf5XuvsLAAD__1ywVQ8=
+# environment
 UBUNTU_MENUPROXY = 1
- 
 # environment
- 
 NVM_DIR = /home/zzz/.nvm
- 
 # environment
 LC_ADDRESS = ru_RU.UTF-8
 # default
 MAKE_COMMAND := make
 # environment
 GOPATH = /home/zzz/go
- 
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # environment
@@ -75,7 +71,9 @@ VSCODE_LOG_STACK = false
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = /home/zzz/.config/Code - OSS/CachedData/d6ee99e4c045a6716e5c653d7da8e9ae6f5a8b03
+ALACRITTY_SOCKET = /run/user/1000/Alacritty-:1-15396.sock
+# environment
+VSCODE_CODE_CACHE_PATH = /home/zzz/.config/Code - OSS/CachedData/f80445acd5a3dadef24aa209168452a3d97cc326
 # environment
 XDG_SESSION_PATH = /org/freedesktop/DisplayManager/Session3
 # environment
@@ -84,6 +82,8 @@ LANG = C
 XAUTHORITY = /home/zzz/.Xauthority
 # default
 .LOADED := 
+# environment
+USE_SSH = true
 # default
 .INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
 # makefile
@@ -93,7 +93,7 @@ CURDIR := /home/zzz/Рабочий стол/my-docs
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
-MCFLY_SESSION_ID = rCVXRdNDwlrodwwGfbEyPhdO
+MCFLY_SESSION_ID = fzutu3LEyMTgsXpWOHbrOvqy
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # automatic
@@ -125,7 +125,7 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 27231
+VSCODE_PID = 89076
 # environment
 XDG_SESSION_TYPE = x11
 # automatic
@@ -145,7 +145,7 @@ HTTP_PROXY = socks5://127.0.0.1:9050
 # automatic
 <D = $(patsubst %/,%,$(dir $<))
 # environment
-VSCODE_NLS_CONFIG = {"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"b0850cb5d8440d61864b574b572701ac.ru","_translationsConfigFile":"/home/zzz/.config/Code - OSS/clp/b0850cb5d8440d61864b574b572701ac.ru/tcf.json","_cacheRoot":"/home/zzz/.config/Code - OSS/clp/b0850cb5d8440d61864b574b572701ac.ru","_resolvedLanguagePackCoreLocation":"/home/zzz/.config/Code - OSS/clp/b0850cb5d8440d61864b574b572701ac.ru/d6ee99e4c045a6716e5c653d7da8e9ae6f5a8b03","_corruptedFile":"/home/zzz/.config/Code - OSS/clp/b0850cb5d8440d61864b574b572701ac.ru/corrupted.info","_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"b0850cb5d8440d61864b574b572701ac.ru","_translationsConfigFile":"/home/zzz/.config/Code - OSS/clp/b0850cb5d8440d61864b574b572701ac.ru/tcf.json","_cacheRoot":"/home/zzz/.config/Code - OSS/clp/b0850cb5d8440d61864b574b572701ac.ru","_resolvedLanguagePackCoreLocation":"/home/zzz/.config/Code - OSS/clp/b0850cb5d8440d61864b574b572701ac.ru/f80445acd5a3dadef24aa209168452a3d97cc326","_corruptedFile":"/home/zzz/.config/Code - OSS/clp/b0850cb5d8440d61864b574b572701ac.ru/corrupted.info","_languagePackSupport":true}
 # environment
 BREAKPAD_DUMP_LOCATION = /home/zzz/.config/Code - OSS/exthost Crash Reports
 # default
@@ -157,13 +157,13 @@ SHELL = /bin/sh
 # default
 MAKECMDGOALS := all
 # environment
-SHLVL = 1
+SHLVL = 2
 # environment
 MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
-PATH = /home/zzz/.local/bin:/home/zzz/bin:/home/zzz/.npm-global/bin:/opt/asdf-vm/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+PATH = /home/zzz/bin:/home/zzz/.npm-global/bin:/opt/asdf-vm/bin:/home/zzz/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
 # default
 MAKEFILES := 
 # environment
@@ -190,6 +190,8 @@ KDE_APPLICATIONS_AS_SCOPE = 1
 XDG_SEAT = seat0
 # environment
 XDG_CURRENT_DESKTOP = KDE
+# environment
+ALACRITTY_LOG = /tmp/Alacritty-15396.log
 # automatic
 +F = $(notdir $+)
 # environment
@@ -200,6 +202,8 @@ DESKTOP_SESSION = plasma
 ORIGINAL_XDG_CURRENT_DESKTOP = KDE
 # 'override' directive
 GNUMAKEFLAGS := 
+# environment
+DIRENV_FILE = /home/zzz/Рабочий стол/my-docs/.envrc
 # environment
 LOGNAME = zzz
 # environment
@@ -213,7 +217,6 @@ SYSTEMD_EXEC_PID = 12722
 # environment
 EDITOR = emacs
 # environment
- 
 DISPLAY = :1
 # environment
 GTK_MODULES = canberra-gtk-module:appmenu-gtk-module
@@ -224,15 +227,23 @@ MAKE_VERSION := 4.3
 # environment
 KDE_SESSION_UID = 1000
 # environment
+DIRENV_DIR = -/home/zzz/Рабочий стол/my-docs
+# environment
 TELEGRAM_URL = https://api.telegram.org/bot
 # environment
 LC_MEASUREMENT = ru_RU.UTF-8
+# environment
+STARSHIP_SHELL = fish
 # environment
 _ = /usr/bin/make
 # environment
 LC_PAPER = ru_RU.UTF-8
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
+# environment
+COLORTERM = truecolor
+# environment
+DIRENV_DIFF = eJyM0UuumlAcgPGtNP-xVKmCStIBFziAAoaHljohXjleFAF5nAMe46CddBtdQjtr0-SuAXfUdNB02gX8vsl3gwtIt_sAcpBuoJqe5mwi1fRAAm6YFBkeMsaG_df-W_-9f3186X_0P988Pj0-96_9r2F25eJiX8Pgr0SmpYEE_y2Hb3FOq_2_wAc5UAzNBwnwoqtZilZJILuyo1TZctoFYuz6zXHqGIiGVhCYW1V-bi2-7F5CQrWdkaKxfnGihCB9-jIKsZGNGVfpAi_yCi1G9o5VCjWTPDLPAsfHlIT5x5zGY-LWlMnzcL_VlI5N8OKyQLgQu6CzK1TWy3ekbcp1wzvhqV55qAkzThDiY8I4-3hoTZ-b58npZB_U65MxO4xk2fCebN5un89LTyx2k1lTpAhVqOO30yULGnw-im56SZzF-JRawUqfjDZznpQHISS0tmRZjSL-2m7c2XsYgG4G0drX_kzBu_rKlQTXDQxg7WuR7xsgQVMRDPf77wAAAP__kTOokA==
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -244,7 +255,9 @@ HOME = /home/zzz
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
-VSCODE_IPC_HOOK = /run/user/1000/vscode-d994c727-1.64.1-main.sock
+VSCODE_IPC_HOOK = /run/user/1000/vscode-d994c727-1.64.2-main.sock
+# environment
+TERM = alacritty
 # environment
 xpyc = 
 # environment
@@ -267,6 +280,7 @@ VSCODE_CLI = 1
 ELECTRON_NO_ATTACH_CONSOLE = 1
 # environment
 KDE_SESSION_VERSION = 5
+ 
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
 # environment
@@ -276,7 +290,7 @@ LC_IDENTIFICATION = ru_RU.UTF-8
 # environment
 OMF_CONFIG = /home/zzz/.config/omf
 # variable set hash-table stats:
-# Load=125/1024=12%, Rehash=0, Collisions=8/155=5%
+# Load=138/1024=13%, Rehash=0, Collisions=15/168=9%
 
 # Pattern-specific Variable Values
 
@@ -284,9 +298,9 @@ OMF_CONFIG = /home/zzz/.config/omf
 
 # Directories
 
-# . (device 42, inode 3022406): 25 files, no impossibilities.
+# . (device 42, inode 3088035): 28 files, no impossibilities.
 
-# 25 files, no impossibilities in 1 directories.
+# 28 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -313,7 +327,7 @@ start:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-02-17 05:22:27.720816888
+#  Last modified 2022-02-18 15:10:20.63934111
 #  File has been updated.
 #  Successfully updated.
 
@@ -368,13 +382,12 @@ install:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 35 / storage = 335 B / avg = 9 B
-# current buf: size = 8162 B / used = 335 B / count = 35 / avg = 9 B
- 
+# strcache buffers: 1 (0) / strings = 38 / storage = 367 B / avg = 9 B
+# current buf: size = 8162 B / used = 367 B / count = 38 / avg = 9 B
 
-# strcache performance: lookups = 47 / hit rate = 25%
+# strcache performance: lookups = 50 / hit rate = 24%
 # hash-table stats:
-# Load=35/8192=0%, Rehash=0, Collisions=0/47=0%
-# Finished Make data base on Fri Feb 18 02:54:45 2022
+# Load=38/8192=0%, Rehash=0, Collisions=0/50=0%
+# Finished Make data base on Fri Feb 18 23:37:37 2022
 
  

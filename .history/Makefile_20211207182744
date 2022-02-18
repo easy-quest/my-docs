@@ -1,5 +1,0 @@
-start:
-	yarn run start
-
-build:
-	
