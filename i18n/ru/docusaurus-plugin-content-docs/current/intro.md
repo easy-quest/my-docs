@@ -26,7 +26,6 @@ Run the development server:
 
 ```shell
 cd my-website
-
 npx docusaurus start
 ```
 
