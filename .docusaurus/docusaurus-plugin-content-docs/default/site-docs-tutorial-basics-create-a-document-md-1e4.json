@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/create-a-document.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-document",
-  "permalink": "/my-docs/docs/tutorial-basics/create-a-document",
+  "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-document",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/create-a-document.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Page",
-    "permalink": "/my-docs/docs/tutorial-basics/create-a-page"
+    "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-page"
   },
   "next": {
     "title": "Create a Blog Post",
-    "permalink": "/my-docs/docs/tutorial-basics/create-a-blog-post"
+    "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-blog-post"
   }
 }

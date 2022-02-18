@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-blog-post",
-  "permalink": "/my-docs/docs/tutorial-basics/create-a-blog-post",
+  "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-blog-post",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/create-a-blog-post.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Document",
-    "permalink": "/my-docs/docs/tutorial-basics/create-a-document"
+    "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-document"
   },
   "next": {
     "title": "Markdown Features",
-    "permalink": "/my-docs/docs/tutorial-basics/markdown-features"
+    "permalink": "/my-docs/fr/docs/tutorial-basics/markdown-features"
   }
 }

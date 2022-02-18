@@ -6,7 +6,7 @@
   "source": "@site/docs/Bash/bash_scripts_001.md",
   "sourceDirName": "Bash",
   "slug": "/Bash/bash_scripts_001",
-  "permalink": "/my-docs/docs/Bash/bash_scripts_001",
+  "permalink": "/my-docs/fr/docs/Bash/bash_scripts_001",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_001.md",
   "tags": [],
   "version": "current",
@@ -21,10 +21,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Translate your site",
-    "permalink": "/my-docs/docs/tutorial-extras/translate-your-site"
+    "permalink": "/my-docs/fr/docs/tutorial-extras/translate-your-site"
   },
   "next": {
     "title": "Bash-скрипты, часть 2",
-    "permalink": "/my-docs/docs/Bash/bash_scripts_002"
+    "permalink": "/my-docs/fr/docs/Bash/bash_scripts_002"
   }
 }

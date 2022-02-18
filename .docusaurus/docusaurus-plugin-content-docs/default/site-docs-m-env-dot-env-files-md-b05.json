@@ -6,7 +6,7 @@
   "source": "@site/docs/M_ENV/dot_env_files.md",
   "sourceDirName": "M_ENV",
   "slug": "/M_ENV/dot_env_files",
-  "permalink": "/my-docs/docs/M_ENV/dot_env_files",
+  "permalink": "/my-docs/fr/docs/M_ENV/dot_env_files",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/M_ENV/dot_env_files.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "asdf",
-    "permalink": "/my-docs/docs/asdf/"
+    "permalink": "/my-docs/fr/docs/asdf/"
   },
   "next": {
     "title": "Tor-project 1",
-    "permalink": "/my-docs/docs/tor-project/tor_projects"
+    "permalink": "/my-docs/fr/docs/tor-project/tor_projects"
   }
 }

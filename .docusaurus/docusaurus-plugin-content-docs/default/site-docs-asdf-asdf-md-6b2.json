@@ -6,7 +6,7 @@
   "source": "@site/docs/asdf/asdf.md",
   "sourceDirName": "asdf",
   "slug": "/asdf/",
-  "permalink": "/my-docs/docs/asdf/",
+  "permalink": "/my-docs/fr/docs/asdf/",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/asdf/asdf.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Bash-скрипты, часть 11",
-    "permalink": "/my-docs/docs/Bash/bash_scripts_011"
+    "permalink": "/my-docs/fr/docs/Bash/bash_scripts_011"
   },
   "next": {
     "title": "dot_env_files",
-    "permalink": "/my-docs/docs/M_ENV/dot_env_files"
+    "permalink": "/my-docs/fr/docs/M_ENV/dot_env_files"
   }
 }

@@ -10,8 +10,8 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/my-docs/docs/intro",
+        "label": "Учебное пособие в Интро",
+        "href": "/my-docs/fr/docs/intro",
         "docId": "intro"
       },
       {
@@ -23,37 +23,37 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/my-docs/docs/tutorial-basics/create-a-page",
+            "href": "/my-docs/fr/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/my-docs/docs/tutorial-basics/create-a-document",
+            "href": "/my-docs/fr/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/my-docs/docs/tutorial-basics/create-a-blog-post",
+            "href": "/my-docs/fr/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/my-docs/docs/tutorial-basics/markdown-features",
+            "href": "/my-docs/fr/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/my-docs/docs/tutorial-basics/deploy-your-site",
+            "href": "/my-docs/fr/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/my-docs/docs/tutorial-basics/congratulations",
+            "href": "/my-docs/fr/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ]
@@ -67,13 +67,13 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/my-docs/docs/tutorial-extras/manage-docs-versions",
+            "href": "/my-docs/fr/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/my-docs/docs/tutorial-extras/translate-your-site",
+            "href": "/my-docs/fr/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ]
@@ -87,67 +87,67 @@
           {
             "type": "link",
             "label": "Bash-скрипты, часть 1",
-            "href": "/my-docs/docs/Bash/bash_scripts_001",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_001",
             "docId": "Bash/bash_scripts_001"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 2",
-            "href": "/my-docs/docs/Bash/bash_scripts_002",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_002",
             "docId": "Bash/bash_scripts_002"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 3 ",
-            "href": "/my-docs/docs/Bash/bash_scripts_003",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_003",
             "docId": "Bash/bash_scripts_003"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 4",
-            "href": "/my-docs/docs/Bash/bash_scripts_004",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_004",
             "docId": "Bash/bash_scripts_004"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 5",
-            "href": "/my-docs/docs/Bash/bash_scripts_005",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_005",
             "docId": "Bash/bash_scripts_005"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 6",
-            "href": "/my-docs/docs/Bash/bash_scripts_006",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_006",
             "docId": "Bash/bash_scripts_006"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 7",
-            "href": "/my-docs/docs/Bash/bash_scripts_007",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_007",
             "docId": "Bash/bash_scripts_007"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 8",
-            "href": "/my-docs/docs/Bash/bash_scripts_008",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_008",
             "docId": "Bash/bash_scripts_008"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 9",
-            "href": "/my-docs/docs/Bash/bash_scripts_009",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_009",
             "docId": "Bash/bash_scripts_009"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 10",
-            "href": "/my-docs/docs/Bash/bash_scripts_010",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_010",
             "docId": "Bash/bash_scripts_010"
           },
           {
             "type": "link",
             "label": "Bash-скрипты, часть 11",
-            "href": "/my-docs/docs/Bash/bash_scripts_011",
+            "href": "/my-docs/fr/docs/Bash/bash_scripts_011",
             "docId": "Bash/bash_scripts_011"
           }
         ]
@@ -158,7 +158,7 @@
         "collapsible": true,
         "collapsed": true,
         "items": [],
-        "href": "/my-docs/docs/asdf/"
+        "href": "/my-docs/fr/docs/asdf/"
       },
       {
         "type": "category",
@@ -169,7 +169,7 @@
           {
             "type": "link",
             "label": "dot_env_files",
-            "href": "/my-docs/docs/M_ENV/dot_env_files",
+            "href": "/my-docs/fr/docs/M_ENV/dot_env_files",
             "docId": "M_ENV/dot_env_files"
           }
         ]
@@ -183,7 +183,7 @@
           {
             "type": "link",
             "label": "Tor-project 1",
-            "href": "/my-docs/docs/tor-project/tor_projects",
+            "href": "/my-docs/fr/docs/tor-project/tor_projects",
             "docId": "tor-project/tor_projects"
           }
         ]
@@ -197,7 +197,7 @@
           {
             "type": "link",
             "label": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
-            "href": "/my-docs/docs/DotFiles/First",
+            "href": "/my-docs/fr/docs/DotFiles/First",
             "docId": "DotFiles/First"
           }
         ]
@@ -285,8 +285,8 @@
     },
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Учебное пособие в Интро",
+      "description": "Давайте обнаружим Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
     "M_ENV/dot_env_files": {

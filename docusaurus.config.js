@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'ru'],                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+    defaultLocale: 'ru',
+    locales: ['ru', 'en'],                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
   },
   title: 'WayaWay',
   titleDelimiter: '🦖', 
@@ -116,6 +116,9 @@ module.exports = {
           src: 'img/logo.svg',
         },
         items: [
+          {
+            type: 'localeDropdown',
+          },
           {
             type: 'doc',
             docId: 'intro',

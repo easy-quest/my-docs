@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-extras/translate-your-site.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/translate-your-site",
-  "permalink": "/my-docs/docs/tutorial-extras/translate-your-site",
+  "permalink": "/my-docs/fr/docs/tutorial-extras/translate-your-site",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-extras/translate-your-site.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
+    "permalink": "/my-docs/fr/docs/tutorial-extras/manage-docs-versions"
   },
   "next": {
     "title": "Bash-скрипты, часть 1",
-    "permalink": "/my-docs/docs/Bash/bash_scripts_001"
+    "permalink": "/my-docs/fr/docs/Bash/bash_scripts_001"
   }
 }

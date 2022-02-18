@@ -1,18 +1,26 @@
 {
-  "defaultLocale": "en",
+  "defaultLocale": "ru",
   "locales": [
+    "ru",
     "en",
-    "ru"
+    "fr"
   ],
-  "currentLocale": "en",
+  "currentLocale": "fr",
   "localeConfigs": {
-    "en": {
-      "label": "English",
-      "direction": "ltr"
-    },
     "ru": {
       "label": "Русский",
-      "direction": "ltr"
+      "direction": "ltr",
+      "htmlLang": "ru"
+    },
+    "en": {
+      "label": "English",
+      "direction": "ltr",
+      "htmlLang": "en"
+    },
+    "fr": {
+      "label": "Français",
+      "direction": "ltr",
+      "htmlLang": "fr"
     }
   }
 }

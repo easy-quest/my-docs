@@ -9,7 +9,7 @@
         "title": "Welcome",
         "description": "Docusaurus blogging features are powered by the blog plugin.",
         "date": "2021-08-26T00:00:00.000Z",
-        "formattedDate": "August 26, 2021",
+        "formattedDate": "26 августа 2021 г.",
         "tags": [
           {
             "label": "facebook",
@@ -42,6 +42,19 @@
             "key": "yangshun"
           }
         ],
+        "frontMatter": {
+          "slug": "welcome",
+          "title": "Welcome",
+          "authors": [
+            "slorber",
+            "yangshun"
+          ],
+          "tags": [
+            "facebook",
+            "hello",
+            "docusaurus"
+          ]
+        },
         "nextItem": {
           "title": "MDX Blog Post",
           "permalink": "/my-docs/blog/mdx-blog-post"
@@ -58,7 +71,7 @@
         "title": "MDX Blog Post",
         "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
         "date": "2021-08-01T00:00:00.000Z",
-        "formattedDate": "August 1, 2021",
+        "formattedDate": "1 августа 2021 г.",
         "tags": [
           {
             "label": "docusaurus",
@@ -76,6 +89,16 @@
             "key": "slorber"
           }
         ],
+        "frontMatter": {
+          "slug": "mdx-blog-post",
+          "title": "MDX Blog Post",
+          "authors": [
+            "slorber"
+          ],
+          "tags": [
+            "docusaurus"
+          ]
+        },
         "prevItem": {
           "title": "Welcome",
           "permalink": "/my-docs/blog/welcome"
@@ -96,7 +119,7 @@
         "title": "Long Blog Post",
         "description": "This is the summary of a very long blog post,",
         "date": "2019-05-29T00:00:00.000Z",
-        "formattedDate": "May 29, 2019",
+        "formattedDate": "29 мая 2019 г.",
         "tags": [
           {
             "label": "hello",
@@ -118,6 +141,15 @@
             "key": "endi"
           }
         ],
+        "frontMatter": {
+          "slug": "long-blog-post",
+          "title": "Long Blog Post",
+          "authors": "endi",
+          "tags": [
+            "hello",
+            "docusaurus"
+          ]
+        },
         "prevItem": {
           "title": "MDX Blog Post",
           "permalink": "/my-docs/blog/mdx-blog-post"
@@ -138,7 +170,7 @@
         "title": "First Blog Post",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
         "date": "2019-05-28T00:00:00.000Z",
-        "formattedDate": "May 28, 2019",
+        "formattedDate": "28 мая 2019 г.",
         "tags": [
           {
             "label": "hola",
@@ -160,6 +192,21 @@
             "imageURL": "https://github.com/wgao19.png"
           }
         ],
+        "frontMatter": {
+          "slug": "first-blog-post",
+          "title": "First Blog Post",
+          "authors": {
+            "name": "Gao Wei",
+            "title": "Docusaurus Core Team",
+            "url": "https://github.com/wgao19",
+            "image_url": "https://github.com/wgao19.png",
+            "imageURL": "https://github.com/wgao19.png"
+          },
+          "tags": [
+            "hola",
+            "docusaurus"
+          ]
+        },
         "prevItem": {
           "title": "Long Blog Post",
           "permalink": "/my-docs/blog/long-blog-post"

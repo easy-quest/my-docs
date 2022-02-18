@@ -6,7 +6,7 @@
   "source": "@site/docs/Bash/bash_scripts_010.md",
   "sourceDirName": "Bash",
   "slug": "/Bash/bash_scripts_010",
-  "permalink": "/my-docs/docs/Bash/bash_scripts_010",
+  "permalink": "/my-docs/fr/docs/Bash/bash_scripts_010",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_010.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Bash-скрипты, часть 9",
-    "permalink": "/my-docs/docs/Bash/bash_scripts_009"
+    "permalink": "/my-docs/fr/docs/Bash/bash_scripts_009"
   },
   "next": {
     "title": "Bash-скрипты, часть 11",
-    "permalink": "/my-docs/docs/Bash/bash_scripts_011"
+    "permalink": "/my-docs/fr/docs/Bash/bash_scripts_011"
   }
 }

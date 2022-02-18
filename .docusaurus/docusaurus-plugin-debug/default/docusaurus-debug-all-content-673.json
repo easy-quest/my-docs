@@ -5,10 +5,10 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/my-docs/docs",
-          "tagsPath": "/my-docs/docs/tags",
+          "versionPath": "/my-docs/fr/docs",
+          "tagsPath": "/my-docs/fr/docs/tags",
           "versionEditUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs",
-          "versionEditUrlLocalized": "https://github.com/easy-quest/my-docs/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrlLocalized": "https://github.com/easy-quest/my-docs/edit/main/website/i18n/fr/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -16,7 +16,7 @@
           "routePriority": -1,
           "sidebarFilePath": "/workspace/my-docs/sidebars.js",
           "contentPath": "/workspace/my-docs/docs",
-          "contentPathLocalized": "/workspace/my-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "contentPathLocalized": "/workspace/my-docs/i18n/fr/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "asdf/asdf",
@@ -26,7 +26,7 @@
               "source": "@site/docs/asdf/asdf.md",
               "sourceDirName": "asdf",
               "slug": "/asdf/",
-              "permalink": "/my-docs/docs/asdf/",
+              "permalink": "/my-docs/fr/docs/asdf/",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/asdf/asdf.md",
               "tags": [],
               "version": "current",
@@ -38,11 +38,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 11",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_011"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_011"
               },
               "next": {
                 "title": "dot_env_files",
-                "permalink": "/my-docs/docs/M_ENV/dot_env_files"
+                "permalink": "/my-docs/fr/docs/M_ENV/dot_env_files"
               }
             },
             {
@@ -53,7 +53,7 @@
               "source": "@site/docs/Bash/bash_scripts_001.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_001",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_001",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_001",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_001.md",
               "tags": [],
               "version": "current",
@@ -68,11 +68,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Translate your site",
-                "permalink": "/my-docs/docs/tutorial-extras/translate-your-site"
+                "permalink": "/my-docs/fr/docs/tutorial-extras/translate-your-site"
               },
               "next": {
                 "title": "Bash-скрипты, часть 2",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_002"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_002"
               }
             },
             {
@@ -83,7 +83,7 @@
               "source": "@site/docs/Bash/bash_scripts_002.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_002",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_002",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_002",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_002.md",
               "tags": [],
               "version": "current",
@@ -95,11 +95,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 1",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_001"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_001"
               },
               "next": {
                 "title": "Bash-скрипты, часть 3 ",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_003"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_003"
               }
             },
             {
@@ -110,7 +110,7 @@
               "source": "@site/docs/Bash/bash_scripts_003.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_003",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_003",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_003",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_003.md",
               "tags": [],
               "version": "current",
@@ -125,11 +125,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 2",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_002"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_002"
               },
               "next": {
                 "title": "Bash-скрипты, часть 4",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_004"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_004"
               }
             },
             {
@@ -140,7 +140,7 @@
               "source": "@site/docs/Bash/bash_scripts_004.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_004",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_004",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_004",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_004.md",
               "tags": [],
               "version": "current",
@@ -152,11 +152,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 3 ",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_003"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_003"
               },
               "next": {
                 "title": "Bash-скрипты, часть 5",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_005"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_005"
               }
             },
             {
@@ -167,7 +167,7 @@
               "source": "@site/docs/Bash/bash_scripts_005.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_005",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_005",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_005",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_005.md",
               "tags": [],
               "version": "current",
@@ -179,11 +179,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 4",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_004"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_004"
               },
               "next": {
                 "title": "Bash-скрипты, часть 6",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_006"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_006"
               }
             },
             {
@@ -194,7 +194,7 @@
               "source": "@site/docs/Bash/bash_scripts_006.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_006",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_006",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_006",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_006.md",
               "tags": [],
               "version": "current",
@@ -206,11 +206,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 5",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_005"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_005"
               },
               "next": {
                 "title": "Bash-скрипты, часть 7",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_007"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_007"
               }
             },
             {
@@ -221,7 +221,7 @@
               "source": "@site/docs/Bash/bash_scripts_007.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_007",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_007",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_007",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_007.md",
               "tags": [],
               "version": "current",
@@ -233,11 +233,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 6",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_006"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_006"
               },
               "next": {
                 "title": "Bash-скрипты, часть 8",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_008"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_008"
               }
             },
             {
@@ -248,7 +248,7 @@
               "source": "@site/docs/Bash/bash_scripts_008.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_008",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_008",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_008",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_008.md",
               "tags": [],
               "version": "current",
@@ -260,11 +260,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 7",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_007"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_007"
               },
               "next": {
                 "title": "Bash-скрипты, часть 9",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_009"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_009"
               }
             },
             {
@@ -275,7 +275,7 @@
               "source": "@site/docs/Bash/bash_scripts_009.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_009",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_009",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_009",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_009.md",
               "tags": [],
               "version": "current",
@@ -287,11 +287,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 8",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_008"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_008"
               },
               "next": {
                 "title": "Bash-скрипты, часть 10",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_010"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_010"
               }
             },
             {
@@ -302,7 +302,7 @@
               "source": "@site/docs/Bash/bash_scripts_010.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_010",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_010",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_010",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_010.md",
               "tags": [],
               "version": "current",
@@ -314,11 +314,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 9",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_009"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_009"
               },
               "next": {
                 "title": "Bash-скрипты, часть 11",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_011"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_011"
               }
             },
             {
@@ -329,7 +329,7 @@
               "source": "@site/docs/Bash/bash_scripts_011.md",
               "sourceDirName": "Bash",
               "slug": "/Bash/bash_scripts_011",
-              "permalink": "/my-docs/docs/Bash/bash_scripts_011",
+              "permalink": "/my-docs/fr/docs/Bash/bash_scripts_011",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/Bash/bash_scripts_011.md",
               "tags": [],
               "version": "current",
@@ -341,11 +341,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bash-скрипты, часть 10",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_010"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_010"
               },
               "next": {
                 "title": "asdf",
-                "permalink": "/my-docs/docs/asdf/"
+                "permalink": "/my-docs/fr/docs/asdf/"
               }
             },
             {
@@ -356,7 +356,7 @@
               "source": "@site/docs/DotFiles/First.md",
               "sourceDirName": "DotFiles",
               "slug": "/DotFiles/First",
-              "permalink": "/my-docs/docs/DotFiles/First",
+              "permalink": "/my-docs/fr/docs/DotFiles/First",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/DotFiles/First.md",
               "tags": [],
               "version": "current",
@@ -368,18 +368,18 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tor-project 1",
-                "permalink": "/my-docs/docs/tor-project/tor_projects"
+                "permalink": "/my-docs/fr/docs/tor-project/tor_projects"
               }
             },
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
+              "title": "Учебное пособие в Интро",
+              "description": "Давайте обнаружим Docusaurus in less than 5 minutes.",
+              "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/my-docs/docs/intro",
+              "permalink": "/my-docs/fr/docs/intro",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/intro.md",
               "tags": [],
               "version": "current",
@@ -390,7 +390,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Create a Page",
-                "permalink": "/my-docs/docs/tutorial-basics/create-a-page"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-page"
               }
             },
             {
@@ -401,7 +401,7 @@
               "source": "@site/docs/M_ENV/dot_env_files.md",
               "sourceDirName": "M_ENV",
               "slug": "/M_ENV/dot_env_files",
-              "permalink": "/my-docs/docs/M_ENV/dot_env_files",
+              "permalink": "/my-docs/fr/docs/M_ENV/dot_env_files",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/M_ENV/dot_env_files.md",
               "tags": [],
               "version": "current",
@@ -413,11 +413,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "asdf",
-                "permalink": "/my-docs/docs/asdf/"
+                "permalink": "/my-docs/fr/docs/asdf/"
               },
               "next": {
                 "title": "Tor-project 1",
-                "permalink": "/my-docs/docs/tor-project/tor_projects"
+                "permalink": "/my-docs/fr/docs/tor-project/tor_projects"
               }
             },
             {
@@ -428,7 +428,7 @@
               "source": "@site/docs/tor-project/tor_projects.md",
               "sourceDirName": "tor-project",
               "slug": "/tor-project/tor_projects",
-              "permalink": "/my-docs/docs/tor-project/tor_projects",
+              "permalink": "/my-docs/fr/docs/tor-project/tor_projects",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tor-project/tor_projects.md",
               "tags": [],
               "version": "current",
@@ -443,11 +443,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "dot_env_files",
-                "permalink": "/my-docs/docs/M_ENV/dot_env_files"
+                "permalink": "/my-docs/fr/docs/M_ENV/dot_env_files"
               },
               "next": {
                 "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
-                "permalink": "/my-docs/docs/DotFiles/First"
+                "permalink": "/my-docs/fr/docs/DotFiles/First"
               }
             },
             {
@@ -458,7 +458,7 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/my-docs/docs/tutorial-basics/congratulations",
+              "permalink": "/my-docs/fr/docs/tutorial-basics/congratulations",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
@@ -469,11 +469,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/my-docs/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Manage Docs Versions",
-                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/my-docs/fr/docs/tutorial-extras/manage-docs-versions"
               }
             },
             {
@@ -484,7 +484,7 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/my-docs/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-blog-post",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "current",
@@ -495,11 +495,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/my-docs/docs/tutorial-basics/create-a-document"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/my-docs/docs/tutorial-basics/markdown-features"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -510,7 +510,7 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/my-docs/docs/tutorial-basics/create-a-document",
+              "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-document",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "current",
@@ -521,11 +521,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/my-docs/docs/tutorial-basics/create-a-page"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/my-docs/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -536,7 +536,7 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/my-docs/docs/tutorial-basics/create-a-page",
+              "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-page",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
@@ -546,12 +546,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial Intro",
-                "permalink": "/my-docs/docs/intro"
+                "title": "Учебное пособие в Интро",
+                "permalink": "/my-docs/fr/docs/intro"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/my-docs/docs/tutorial-basics/create-a-document"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-document"
               }
             },
             {
@@ -562,7 +562,7 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/my-docs/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/my-docs/fr/docs/tutorial-basics/deploy-your-site",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "current",
@@ -573,11 +573,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/my-docs/docs/tutorial-basics/markdown-features"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/markdown-features"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/my-docs/docs/tutorial-basics/congratulations"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -588,7 +588,7 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/my-docs/docs/tutorial-basics/markdown-features",
+              "permalink": "/my-docs/fr/docs/tutorial-basics/markdown-features",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
@@ -599,11 +599,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/my-docs/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/my-docs/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -614,7 +614,7 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/my-docs/fr/docs/tutorial-extras/manage-docs-versions",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
@@ -625,11 +625,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Congratulations!",
-                "permalink": "/my-docs/docs/tutorial-basics/congratulations"
+                "permalink": "/my-docs/fr/docs/tutorial-basics/congratulations"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/my-docs/docs/tutorial-extras/translate-your-site"
+                "permalink": "/my-docs/fr/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -640,7 +640,7 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/my-docs/docs/tutorial-extras/translate-your-site",
+              "permalink": "/my-docs/fr/docs/tutorial-extras/translate-your-site",
               "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
@@ -651,11 +651,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/my-docs/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/my-docs/fr/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
                 "title": "Bash-скрипты, часть 1",
-                "permalink": "/my-docs/docs/Bash/bash_scripts_001"
+                "permalink": "/my-docs/fr/docs/Bash/bash_scripts_001"
               }
             }
           ],
@@ -831,25 +831,25 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/my-docs/blog/welcome",
+            "permalink": "/my-docs/fr/blog/welcome",
             "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
             "date": "2021-08-26T00:00:00.000Z",
-            "formattedDate": "August 26, 2021",
+            "formattedDate": "26 août 2021",
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/my-docs/blog/tags/facebook"
+                "permalink": "/my-docs/fr/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/my-docs/blog/tags/hello"
+                "permalink": "/my-docs/fr/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/my-docs/blog/tags/docusaurus"
+                "permalink": "/my-docs/fr/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -870,9 +870,22 @@
                 "key": "yangshun"
               }
             ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/my-docs/blog/mdx-blog-post"
+              "permalink": "/my-docs/fr/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -880,17 +893,17 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/my-docs/blog/mdx-blog-post",
+            "permalink": "/my-docs/fr/blog/mdx-blog-post",
             "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
             "date": "2021-08-01T00:00:00.000Z",
-            "formattedDate": "August 1, 2021",
+            "formattedDate": "1 août 2021",
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/my-docs/blog/tags/docusaurus"
+                "permalink": "/my-docs/fr/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -904,13 +917,23 @@
                 "key": "slorber"
               }
             ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/my-docs/blog/welcome"
+              "permalink": "/my-docs/fr/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/my-docs/blog/long-blog-post"
+              "permalink": "/my-docs/fr/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -918,21 +941,21 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/my-docs/blog/long-blog-post",
+            "permalink": "/my-docs/fr/blog/long-blog-post",
             "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
             "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
+            "formattedDate": "29 mai 2019",
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/my-docs/blog/tags/hello"
+                "permalink": "/my-docs/fr/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/my-docs/blog/tags/docusaurus"
+                "permalink": "/my-docs/fr/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -946,13 +969,22 @@
                 "key": "endi"
               }
             ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/my-docs/blog/mdx-blog-post"
+              "permalink": "/my-docs/fr/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/my-docs/blog/first-blog-post"
+              "permalink": "/my-docs/fr/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -960,21 +992,21 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/my-docs/blog/first-blog-post",
+            "permalink": "/my-docs/fr/blog/first-blog-post",
             "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/blog/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
             "date": "2019-05-28T00:00:00.000Z",
-            "formattedDate": "May 28, 2019",
+            "formattedDate": "28 mai 2019",
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/my-docs/blog/tags/hola"
+                "permalink": "/my-docs/fr/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/my-docs/blog/tags/docusaurus"
+                "permalink": "/my-docs/fr/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -988,9 +1020,24 @@
                 "imageURL": "https://github.com/wgao19.png"
               }
             ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/my-docs/blog/long-blog-post"
+              "permalink": "/my-docs/fr/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -999,7 +1046,7 @@
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/my-docs/blog",
+            "permalink": "/my-docs/fr/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -1018,22 +1065,22 @@
         }
       ],
       "blogTags": {
-        "/my-docs/blog/tags/facebook": {
+        "/my-docs/fr/blog/tags/facebook": {
           "name": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/my-docs/blog/tags/facebook"
+          "permalink": "/my-docs/fr/blog/tags/facebook"
         },
-        "/my-docs/blog/tags/hello": {
+        "/my-docs/fr/blog/tags/hello": {
           "name": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/my-docs/blog/tags/hello"
+          "permalink": "/my-docs/fr/blog/tags/hello"
         },
-        "/my-docs/blog/tags/docusaurus": {
+        "/my-docs/fr/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
             "welcome",
@@ -1041,30 +1088,35 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/my-docs/blog/tags/docusaurus"
+          "permalink": "/my-docs/fr/blog/tags/docusaurus"
         },
-        "/my-docs/blog/tags/hola": {
+        "/my-docs/fr/blog/tags/hola": {
           "name": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/my-docs/blog/tags/hola"
+          "permalink": "/my-docs/fr/blog/tags/hola"
         }
       },
-      "blogTagsListPath": "/my-docs/blog/tags"
+      "blogTagsListPath": "/my-docs/fr/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/my-docs/",
+        "permalink": "/my-docs/fr/",
         "source": "@site/src/pages/index.tsx"
       },
       {
         "type": "mdx",
-        "permalink": "/my-docs/markdown-page",
-        "source": "@site/src/pages/markdown-page.md"
+        "permalink": "/my-docs/fr/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
       }
     ]
   },
