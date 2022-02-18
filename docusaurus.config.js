@@ -6,6 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'ru'],                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+  },
   title: 'WayaWay',
   titleDelimiter: '🦖', 
   tagline: 'Hacking are cool',

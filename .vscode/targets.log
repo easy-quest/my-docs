@@ -2,13 +2,14 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 make: *** No rule to make target 'all'.  Stop.
  
 # GNU Make 4.3
+ 
 # Built for x86_64-pc-linux-gnu
 # Copyright (C) 1988-2020 Free Software Foundation, Inc.
 # License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Feb 17 06:12:09 2022
+# Make data base, printed on Fri Feb 18 02:54:45 2022
 
 # Variables
 
@@ -23,23 +24,34 @@ NO_AT_BRIDGE = 1
 # environment
 GTK_RC_FILES = /etc/gtk/gtkrc:/home/zzz/.gtkrc:/home/zzz/.config/gtkrc
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-849439ae-00ca-4443-b2c9-372b22ee3d35.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-068487a8-6f9f-431a-94ed-e5a8e5e5d442.sock
 # environment
+ 
 LC_NAME = ru_RU.UTF-8
+ 
 # environment
+ 
 LC_NUMERIC = ru_RU.UTF-8
+ 
 # environment
+ 
 VSCODE_CWD = /home/zzz
+ 
 # environment
+ 
 UBUNTU_MENUPROXY = 1
+ 
 # environment
+ 
 NVM_DIR = /home/zzz/.nvm
+ 
 # environment
 LC_ADDRESS = ru_RU.UTF-8
 # default
 MAKE_COMMAND := make
 # environment
 GOPATH = /home/zzz/go
+ 
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # environment
@@ -65,7 +77,7 @@ VSCODE_LOG_STACK = false
 # environment
 VSCODE_CODE_CACHE_PATH = /home/zzz/.config/Code - OSS/CachedData/d6ee99e4c045a6716e5c653d7da8e9ae6f5a8b03
 # environment
-XDG_SESSION_PATH = /org/freedesktop/DisplayManager/Session7
+XDG_SESSION_PATH = /org/freedesktop/DisplayManager/Session3
 # environment
 LANG = C
 # environment
@@ -81,7 +93,7 @@ CURDIR := /home/zzz/Рабочий стол/my-docs
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
-MCFLY_SESSION_ID = sglOqzMTuHyj9fwKaUGz6Vtf
+MCFLY_SESSION_ID = rCVXRdNDwlrodwwGfbEyPhdO
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # automatic
@@ -113,7 +125,7 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 63727
+VSCODE_PID = 27231
 # environment
 XDG_SESSION_TYPE = x11
 # automatic
@@ -121,7 +133,7 @@ XDG_SESSION_TYPE = x11
 # environment
 MANPAGER = sh -c 'col -bx | bat -l man -p'
 # environment
-SESSION_MANAGER = local/develop:@/tmp/.ICE-unix/49063,unix/develop:/tmp/.ICE-unix/49063
+SESSION_MANAGER = local/develop:@/tmp/.ICE-unix/13561,unix/develop:/tmp/.ICE-unix/13561
 # automatic
 *F = $(notdir $*)
 # environment
@@ -137,7 +149,6 @@ VSCODE_NLS_CONFIG = {"locale":"ru","availableLanguages":{"*":"ru"},"_languagePac
 # environment
 BREAKPAD_DUMP_LOCATION = /home/zzz/.config/Code - OSS/exthost Crash Reports
 # default
- 
 MAKE_HOST := x86_64-pc-linux-gnu
 # environment
 MCFLY_HISTFILE = /home/zzz/.local/share/fish/fish_history
@@ -198,10 +209,11 @@ XDG_VTNR = 2
 # makefile
 .DEFAULT_GOAL := start
 # environment
-SYSTEMD_EXEC_PID = 48261
+SYSTEMD_EXEC_PID = 12722
 # environment
 EDITOR = emacs
 # environment
+ 
 DISPLAY = :1
 # environment
 GTK_MODULES = canberra-gtk-module:appmenu-gtk-module
@@ -236,7 +248,7 @@ VSCODE_IPC_HOOK = /run/user/1000/vscode-d994c727-1.64.1-main.sock
 # environment
 xpyc = 
 # environment
-XDG_SESSION_ID = 11
+XDG_SESSION_ID = 5
 # environment
 XCURSOR_SIZE = 24
 # environment
@@ -272,9 +284,9 @@ OMF_CONFIG = /home/zzz/.config/omf
 
 # Directories
 
-# . (device 45, inode 3022406): 22 files, no impossibilities.
+# . (device 42, inode 3022406): 25 files, no impossibilities.
 
-# 22 files, no impossibilities in 1 directories.
+# 25 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -284,7 +296,6 @@ OMF_CONFIG = /home/zzz/.config/omf
 
 deploy: test
 #  Implicit rule search has not been done.
- 
 #  Modification time never checked.
 #  File has not been updated.
 #  recipe to execute (from 'Makefile', line 15):
@@ -357,12 +368,13 @@ install:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 33 / storage = 304 B / avg = 9 B
-# current buf: size = 8162 B / used = 304 B / count = 33 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 35 / storage = 335 B / avg = 9 B
+# current buf: size = 8162 B / used = 335 B / count = 35 / avg = 9 B
+ 
 
-# strcache performance: lookups = 44 / hit rate = 25%
+# strcache performance: lookups = 47 / hit rate = 25%
 # hash-table stats:
-# Load=33/8192=0%, Rehash=0, Collisions=0/44=0%
-# Finished Make data base on Thu Feb 17 06:12:09 2022
+# Load=35/8192=0%, Rehash=0, Collisions=0/47=0%
+# Finished Make data base on Fri Feb 18 02:54:45 2022
 
  
