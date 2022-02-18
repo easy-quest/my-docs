@@ -14,7 +14,7 @@ sidebar_position: 1
 
 ## Создать новый сайт
 
-```shell
+```bash
 npm init docusaurus@latest my-website classic
 ```
 
@@ -22,11 +22,11 @@ npm init docusaurus@latest my-website classic
 
 Запустите сервер разработки:
 
-```shell
+```bash
 cd my-website
 npx docusaurus start
 ```
 
-Ваш сайт начинается на `http://localhost:3000`.
+Ваш сайт вращается на `http://localhost:3000`.
 
 Открыть `docs/intro.md` и редактировать некоторые строки: сайт **reloads automatically** и отображает ваши изменения.
