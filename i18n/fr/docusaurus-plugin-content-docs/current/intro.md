@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Начать работу **Создание нового сайта**.
 
-Или **Попробуйте немедленнодо кусавр** с участиемастием **[docusaurus.new](https://docusaurus.new)**.
+Или **Попробуйте немедленно Docusaurus** с участиемастием **[docusaurus.new](https://docusaurus.new)**.
 
 ## Создать новый сайт
 
