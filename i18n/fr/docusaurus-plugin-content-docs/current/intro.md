@@ -13,7 +13,7 @@ sidebar_position: 1
 Или **try Docusaurus immediately** с участиемастием **[docusaurus.new](https://docusaurus.new)**.
 
 ## Создать новый сайт
- 
+
 ```shell
 npm init docusaurus@latest my-website classic
 ```
