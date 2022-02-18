@@ -2,33 +2,31 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Учебное пособие в Интро
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Давайте обнаружим **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+## Начиная
 
-Get started by **creating a new site**.
+Начать работу **creating a new site**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Или **try Docusaurus immediately** с участиемастием **[docusaurus.new](https://docusaurus.new)**.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
+## Создать новый сайт
+ 
 ```shell
 npm init docusaurus@latest my-website classic
 ```
 
-## Start your site
+## Начните свой сайт
 
-Run the development server:
+Запустите сервер разработки:
 
 ```shell
 cd my-website
 npx docusaurus start
 ```
 
-Your site starts at `http://localhost:3000`.
+Ваш сайт начинается на `http://localhost:3000`.
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+Открыть `docs/intro.md` и редактировать некоторые строки: сайт **reloads automatically** и отображает ваши изменения.
