@@ -16,7 +16,7 @@ export default {
   "titleDelimiter": "🦖",
   "tagline": "Hacking are cool",
   "url": "https://easy-quest.github.io",
-  "baseUrl": "/my-docs/fr/",
+  "baseUrl": "/my-docs/en/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -88,7 +88,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/workspace/my-docs/sidebars.js",
+          "sidebarPath": "/home/zzz/Рабочий стол/my-docs/sidebars.js",
           "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/"
         },
         "blog": {
@@ -96,7 +96,7 @@ export default {
           "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/workspace/my-docs/src/css/custom.css"
+          "customCss": "/home/zzz/Рабочий стол/my-docs/src/css/custom.css"
         }
       }
     ]

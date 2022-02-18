@@ -6,7 +6,7 @@
   "source": "@site/docs/DotFiles/First.md",
   "sourceDirName": "DotFiles",
   "slug": "/DotFiles/First",
-  "permalink": "/my-docs/fr/docs/DotFiles/First",
+  "permalink": "/my-docs/en/docs/DotFiles/First",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/DotFiles/First.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tor-project 1",
-    "permalink": "/my-docs/fr/docs/tor-project/tor_projects"
+    "permalink": "/my-docs/en/docs/tor-project/tor_projects"
   }
 }

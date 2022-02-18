@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/my-docs/fr/docs/tutorial-basics/congratulations",
+  "permalink": "/my-docs/en/docs/tutorial-basics/congratulations",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-basics/congratulations.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/my-docs/fr/docs/tutorial-basics/deploy-your-site"
+    "permalink": "/my-docs/en/docs/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Manage Docs Versions",
-    "permalink": "/my-docs/fr/docs/tutorial-extras/manage-docs-versions"
+    "permalink": "/my-docs/en/docs/tutorial-extras/manage-docs-versions"
   }
 }

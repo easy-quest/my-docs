@@ -6,7 +6,7 @@
   "source": "@site/docs/tor-project/tor_projects.md",
   "sourceDirName": "tor-project",
   "slug": "/tor-project/tor_projects",
-  "permalink": "/my-docs/fr/docs/tor-project/tor_projects",
+  "permalink": "/my-docs/en/docs/tor-project/tor_projects",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tor-project/tor_projects.md",
   "tags": [],
   "version": "current",
@@ -21,10 +21,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "dot_env_files",
-    "permalink": "/my-docs/fr/docs/M_ENV/dot_env_files"
+    "permalink": "/my-docs/en/docs/M_ENV/dot_env_files"
   },
   "next": {
     "title": "Лучший способ хранения ваших точечных файлов: голый репозиторий Git",
-    "permalink": "/my-docs/fr/docs/DotFiles/First"
+    "permalink": "/my-docs/en/docs/DotFiles/First"
   }
 }

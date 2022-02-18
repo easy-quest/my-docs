@@ -1,232 +1,210 @@
 {
-  "/my-docs/fr/__docusaurus/debug-d1d": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/my-docs/fr/__docusaurus/debug/config-a5e": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/my-docs/fr/__docusaurus/debug/content-900": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---my-docs-fr-docusaurus-debug-content-246-ade"
-  },
-  "/my-docs/fr/__docusaurus/debug/globalData-0f9": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/my-docs/fr/__docusaurus/debug/metadata-ffd": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/my-docs/fr/__docusaurus/debug/registry-a20": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/my-docs/fr/__docusaurus/debug/routes-9bc": {
-    "component": "component---theme-debug-routes-946-699"
-  },
-  "/my-docs/fr/blog-154": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
+  "/my-docs/en/blog-db7": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---my-docs-fr-blog-766-7f2"
+        "content": "7661071f"
       },
       {
-        "content": "content---my-docs-fr-blogf-4-f-59c"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---my-docs-fr-blog-871-827"
+        "content": "8717b14a"
       },
       {
-        "content": "content---my-docs-fr-blog-925-371"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---my-docs-fr-blogb-13-c8a"
+    "metadata": "2c49bd9d"
   },
-  "/my-docs/fr/blog/archive-f84": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---my-docs-fr-blog-archive-16-f-1af"
+  "/my-docs/en/blog/archive-680": {
+    "component": "9e4087bc",
+    "archive": "dd6c964f"
   },
-  "/my-docs/fr/blog/first-blog-post-aa5": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
-    "content": "content---my-docs-fr-blog-first-blog-poste-27-dab"
+  "/my-docs/en/blog/first-blog-post-9bf": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
-  "/my-docs/fr/blog/long-blog-post-694": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
-    "content": "content---my-docs-fr-blog-long-blog-post-736-283"
+  "/my-docs/en/blog/long-blog-post-f3e": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
-  "/my-docs/fr/blog/mdx-blog-post-12e": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
-    "content": "content---my-docs-fr-blog-mdx-blog-post-593-5ae"
+  "/my-docs/en/blog/mdx-blog-post-e73": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
-  "/my-docs/fr/blog/tags-36e": {
-    "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
-    "tags": "tags---my-docs-fr-blog-tags-313-7e7"
+  "/my-docs/en/blog/tags-9f7": {
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "cafd57f3"
   },
-  "/my-docs/fr/blog/tags/docusaurus-a25": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
+  "/my-docs/en/blog/tags/docusaurus-a1d": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---my-docs-fr-blog-766-7f2"
+        "content": "7661071f"
       },
       {
-        "content": "content---my-docs-fr-blogf-4-f-59c"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---my-docs-fr-blog-871-827"
+        "content": "8717b14a"
       },
       {
-        "content": "content---my-docs-fr-blog-925-371"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---my-docs-fr-blog-tags-docusaurusaa-8-8e2"
+    "metadata": "4f8673d1"
   },
-  "/my-docs/fr/blog/tags/facebook-d4c": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
+  "/my-docs/en/blog/tags/facebook-57d": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---my-docs-fr-blog-766-7f2"
+        "content": "7661071f"
       }
     ],
-    "metadata": "metadata---my-docs-fr-blog-tags-facebook-60-c-b35"
+    "metadata": "8d69e4c7"
   },
-  "/my-docs/fr/blog/tags/hello-13a": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
+  "/my-docs/en/blog/tags/hello-d51": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---my-docs-fr-blog-766-7f2"
+        "content": "7661071f"
       },
       {
-        "content": "content---my-docs-fr-blog-871-827"
+        "content": "8717b14a"
       }
     ],
-    "metadata": "metadata---my-docs-fr-blog-tags-hello-15-e-5f7"
+    "metadata": "9a2d51e7"
   },
-  "/my-docs/fr/blog/tags/hola-e0e": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
+  "/my-docs/en/blog/tags/hola-d04": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---my-docs-fr-blog-925-371"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---my-docs-fr-blog-tags-hola-5-a-1-bc7"
+    "metadata": "7f11b9b8"
   },
-  "/my-docs/fr/blog/welcome-389": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---my-docs-fr-blog-814-ff3",
-    "content": "content---my-docs-fr-blog-welcomed-9-f-01f"
+  "/my-docs/en/blog/welcome-740": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
-  "/my-docs/fr/markdown-page-fa1": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---my-docs-fr-markdown-page-393-738"
+  "/my-docs/en/markdown-page-4db": {
+    "component": "1f391b9e",
+    "content": "393be207"
   },
-  "/my-docs/fr/docs-a67": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---my-docs-fr-docs-935-204"
+  "/my-docs/en/docs-39b": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
-  "/my-docs/fr/docs/asdf/-f92": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-asdf-6-b-2-35c"
+  "/my-docs/en/docs/asdf/-cf9": {
+    "component": "17896441",
+    "content": "6b2d8f6b"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_001-ceb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-00119-e-b0b"
+  "/my-docs/en/docs/Bash/bash_scripts_001-209": {
+    "component": "17896441",
+    "content": "19e17950"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_002-37e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-002738-5c8"
+  "/my-docs/en/docs/Bash/bash_scripts_002-ee6": {
+    "component": "17896441",
+    "content": "73875d90"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_003-f49": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-003088-d3b"
+  "/my-docs/en/docs/Bash/bash_scripts_003-988": {
+    "component": "17896441",
+    "content": "088bb2bd"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_004-262": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-004-ad-8-b6c"
+  "/my-docs/en/docs/Bash/bash_scripts_004-e1b": {
+    "component": "17896441",
+    "content": "ad864982"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_005-33e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-005487-31f"
+  "/my-docs/en/docs/Bash/bash_scripts_005-6f7": {
+    "component": "17896441",
+    "content": "4874cfbd"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_006-065": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-006-d-7-a-636"
+  "/my-docs/en/docs/Bash/bash_scripts_006-62b": {
+    "component": "17896441",
+    "content": "d7a297f4"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_007-c17": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-007-fa-4-074"
+  "/my-docs/en/docs/Bash/bash_scripts_007-b04": {
+    "component": "17896441",
+    "content": "fa44f387"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_008-b35": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-008-c-4-b-095"
+  "/my-docs/en/docs/Bash/bash_scripts_008-b3b": {
+    "component": "17896441",
+    "content": "c4b13c20"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_009-322": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-0099-e-9-ef2"
+  "/my-docs/en/docs/Bash/bash_scripts_009-732": {
+    "component": "17896441",
+    "content": "9e963e91"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_010-5f4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-0105-cc-469"
+  "/my-docs/en/docs/Bash/bash_scripts_010-4e4": {
+    "component": "17896441",
+    "content": "5cce9be0"
   },
-  "/my-docs/fr/docs/Bash/bash_scripts_011-f37": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-bash-bash-scripts-011-da-5-68d"
+  "/my-docs/en/docs/Bash/bash_scripts_011-2b3": {
+    "component": "17896441",
+    "content": "da510aa4"
   },
-  "/my-docs/fr/docs/DotFiles/First-dda": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-dot-files-firstd-28-b33"
+  "/my-docs/en/docs/DotFiles/First-f21": {
+    "component": "17896441",
+    "content": "d28c775a"
   },
-  "/my-docs/fr/docs/intro-017": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-intro-57-a-b61"
+  "/my-docs/en/docs/intro-0ae": {
+    "component": "17896441",
+    "content": "5b44acae"
   },
-  "/my-docs/fr/docs/M_ENV/dot_env_files-bc8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-m-env-dot-env-filesb-05-bfb"
+  "/my-docs/en/docs/M_ENV/dot_env_files-0b1": {
+    "component": "17896441",
+    "content": "b058d5fe"
   },
-  "/my-docs/fr/docs/tor-project/tor_projects-898": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-tor-project-tor-projectsa-5-c-404"
+  "/my-docs/en/docs/tor-project/tor_projects-ef9": {
+    "component": "17896441",
+    "content": "a5c7ca62"
   },
-  "/my-docs/fr/docs/tutorial-basics/congratulations-413": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-tutorial-basics-congratulations-822-cdf"
+  "/my-docs/en/docs/tutorial-basics/congratulations-ca3": {
+    "component": "17896441",
+    "content": "822bd8ab"
   },
-  "/my-docs/fr/docs/tutorial-basics/create-a-blog-post-b3b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-tutorial-basics-create-a-blog-post-533-94d"
+  "/my-docs/en/docs/tutorial-basics/create-a-blog-post-7c9": {
+    "component": "17896441",
+    "content": "533a09ca"
   },
-  "/my-docs/fr/docs/tutorial-basics/create-a-document-e79": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-tutorial-basics-create-a-document-1-e-4-f9f"
+  "/my-docs/en/docs/tutorial-basics/create-a-document-aa5": {
+    "component": "17896441",
+    "content": "1e4232ab"
   },
-  "/my-docs/fr/docs/tutorial-basics/create-a-page-65a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-tutorial-basics-create-a-page-5-c-8-f10"
+  "/my-docs/en/docs/tutorial-basics/create-a-page-ae2": {
+    "component": "17896441",
+    "content": "5c868d36"
   },
-  "/my-docs/fr/docs/tutorial-basics/deploy-your-site-af1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-tutorial-basics-deploy-your-sitef-55-58d"
+  "/my-docs/en/docs/tutorial-basics/deploy-your-site-c2d": {
+    "component": "17896441",
+    "content": "f55d3e7a"
   },
-  "/my-docs/fr/docs/tutorial-basics/markdown-features-e0f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-tutorial-basics-markdown-features-18-c-662"
+  "/my-docs/en/docs/tutorial-basics/markdown-features-4fd": {
+    "component": "17896441",
+    "content": "18c41134"
   },
-  "/my-docs/fr/docs/tutorial-extras/manage-docs-versions-ed9": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-tutorial-extras-manage-docs-versionsdff-b86"
+  "/my-docs/en/docs/tutorial-extras/manage-docs-versions-268": {
+    "component": "17896441",
+    "content": "dff1c289"
   },
-  "/my-docs/fr/docs/tutorial-extras/translate-your-site-de7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---my-docs-fr-docs-tutorial-extras-translate-your-sitee-44-27d"
+  "/my-docs/en/docs/tutorial-extras/translate-your-site-801": {
+    "component": "17896441",
+    "content": "e44a2883"
   },
-  "/my-docs/fr/-1f7": {
-    "component": "component---site-src-pages-index-tsx-1-df-d3e",
-    "config": "config---my-docs-fr-5-e-9-608"
+  "/my-docs/en/-9b0": {
+    "component": "1df93b7f",
+    "config": "5e9f5e1a"
   }
 }

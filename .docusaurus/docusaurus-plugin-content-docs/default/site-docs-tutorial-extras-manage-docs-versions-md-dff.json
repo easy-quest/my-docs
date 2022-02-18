@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/my-docs/fr/docs/tutorial-extras/manage-docs-versions",
+  "permalink": "/my-docs/en/docs/tutorial-extras/manage-docs-versions",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/docs/tutorial-extras/manage-docs-versions.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Congratulations!",
-    "permalink": "/my-docs/fr/docs/tutorial-basics/congratulations"
+    "permalink": "/my-docs/en/docs/tutorial-basics/congratulations"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/my-docs/fr/docs/tutorial-extras/translate-your-site"
+    "permalink": "/my-docs/en/docs/tutorial-extras/translate-your-site"
   }
 }

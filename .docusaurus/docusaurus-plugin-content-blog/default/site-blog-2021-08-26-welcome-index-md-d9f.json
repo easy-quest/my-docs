@@ -1,23 +1,23 @@
 {
-  "permalink": "/my-docs/fr/blog/welcome",
+  "permalink": "/my-docs/en/blog/welcome",
   "editUrl": "https://github.com/easy-quest/my-docs/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
   "date": "2021-08-26T00:00:00.000Z",
-  "formattedDate": "26 août 2021",
+  "formattedDate": "August 26, 2021",
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/my-docs/fr/blog/tags/facebook"
+      "permalink": "/my-docs/en/blog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/my-docs/fr/blog/tags/hello"
+      "permalink": "/my-docs/en/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/my-docs/fr/blog/tags/docusaurus"
+      "permalink": "/my-docs/en/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.405,
@@ -53,6 +53,6 @@
   },
   "nextItem": {
     "title": "MDX Blog Post",
-    "permalink": "/my-docs/fr/blog/mdx-blog-post"
+    "permalink": "/my-docs/en/blog/mdx-blog-post"
   }
 }

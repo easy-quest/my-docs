@@ -2,10 +2,9 @@
   "defaultLocale": "ru",
   "locales": [
     "ru",
-    "en",
-    "fr"
+    "en"
   ],
-  "currentLocale": "fr",
+  "currentLocale": "en",
   "localeConfigs": {
     "ru": {
       "label": "Русский",
@@ -16,11 +15,6 @@
       "label": "English",
       "direction": "ltr",
       "htmlLang": "en"
-    },
-    "fr": {
-      "label": "Français",
-      "direction": "ltr",
-      "htmlLang": "fr"
     }
   }
 }
