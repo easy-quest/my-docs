@@ -1,3 +1,9 @@
+gp:
+	git add .
+	direnv allow
+	git commit -am "${texxt}"
+	git push
+
 start:
 	yarn run start
 
